@@ -27,7 +27,7 @@
 
     var completion_code = 'xxx';
     var nWords = 12;
-    var nTrials = 1;
+    var nTrials = 10;
 
     var trial_num = 1;
     var check_num = 1;
@@ -141,7 +141,7 @@
     //instructions for sanity check 
     var check_instructions = {
         type: "html-keyboard-response",
-	    stimulus: "<div> Thank you for completing the trial!</div><div>You will now see the clues you gave in each trial. Please select the words that you intended to be indicated by that clue.</div><div>These should be the same words you selected when giving the clue.</div><div>Press any key to begin.</div>",
+	    stimulus: "<div> Thank you for completing the trial!</div><div>You will now see your clues again. For each clue, please select the words that you intended to be indicated by that clue.</div><div>These should be the same words you selected when giving the clue.</div><div>Press any key to begin.</div>",
     };
 
     //check clue trial
@@ -244,15 +244,14 @@
     //set timeline
     timeline = [];
     
-    //timeline.push(consent);
-    //timeline.push(welcome);
+    timeline.push(consent);
+    timeline.push(welcome);
     timeline.push(get_id);
-    /*
+    
     timeline.push(instructions1);
     timeline.push(example1);
     timeline.push(example2);
     timeline.push(instructions2);
-    */
     timeline.push(trial_instructions_first);
     timeline.push(give_clue_trial);
     for (var i = 0; i < nTrials-1; i++) {

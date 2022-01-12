@@ -1,0 +1,7502 @@
+[
+    {
+        "subject_id": "600319e3a3b1a337cab57a3e",
+        "completion_code": "5F7E697E",
+        "age": "62",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CHURCH",
+                "LIMOUSINE",
+                "HEART"
+            ],
+            [
+                "POLICE",
+                "POISON",
+                "PART"
+            ],
+            [
+                "CHOCOLATE",
+                "JAM",
+                "PASTE"
+            ],
+            [
+                "WATER",
+                "CIRCLE",
+                "VACUUM"
+            ],
+            [
+                "CAPITAL",
+                "ENGLAND",
+                "KING"
+            ],
+            [
+                "LOCK",
+                "JACK",
+                "ENGINE"
+            ],
+            [
+                "PRINCESS",
+                "QUEEN",
+                "KING"
+            ],
+            [
+                "DISEASE",
+                "CASINO",
+                "PIPE"
+            ],
+            [
+                "BARK",
+                "SHOE",
+                "TICK"
+            ],
+            [
+                "WHALE",
+                "FISH",
+                "MOON"
+            ]
+        ]
+    },
+    {
+        "subject_id": "58474a9c89af6500017f4cd6",
+        "completion_code": "5F7E697E",
+        "age": "25",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "USA",
+        "student": "Yes",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+        ],
+        "check_words": [
+            [
+                "HIMALAYAS",
+                "SNOW",
+                "SNOWMAN"
+            ],
+            [
+                "GERMANY",
+                "LONDON",
+                "FOREST"
+            ],
+            [
+                "GOLD",
+                "MINT",
+                "BANK"
+            ],
+            [
+                "HOSPITAL",
+                "SATELLITE",
+                "POST"
+            ],
+            [
+                "FACE",
+                "ORGAN",
+                "FRANCE"
+            ],
+            [
+                "SLUG",
+                "IRON",
+                "BOMB"
+            ],
+            [
+                "SPACE",
+                "GREECE",
+                "KEY"
+            ],
+            [
+                "ROSE",
+                "FLUTE",
+                "SERVER"
+            ],
+            [
+                "WITCH",
+                "MASS",
+                "GRACE"
+            ],
+            [
+                "BARK",
+                "SHARK",
+                "PIRATE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "601aed7c7b8b5d40e1b7c97b",
+        "completion_code": "5F7E697E",
+        "age": "21",
+        "gender": "Female",
+        "nationality": "american",
+        "country": "united states",
+        "student": "Yes",
+        "language": "english",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "BERMUDA",
+                "BEIJING",
+                "EUROPE"
+            ],
+            [
+                "MASS",
+                "POUND",
+                "LINE"
+            ],
+            [
+                "WAVE",
+                "KIWI",
+                "ROSE"
+            ],
+            [
+                "CHEST",
+                "PIANO",
+                "BED"
+            ],
+            [
+                "STAR",
+                "ALIEN",
+                "HELICOPTER"
+            ],
+            [
+                "BILL",
+                "GRACE",
+                "HONEY"
+            ],
+            [
+                "DOCTOR",
+                "MOUTH",
+                "DATE"
+            ],
+            [
+                "BOMB",
+                "FORCE",
+                "COVER"
+            ],
+            [
+                "BEIJING",
+                "CANADA",
+                "BERLIN"
+            ],
+            [
+                "GAS",
+                "COPPER",
+                "CONDUCTOR"
+            ]
+        ]
+    },
+    {
+        "subject_id": "610c73e305ca53ef706a4bcc",
+        "completion_code": "5F7E697E",
+        "age": "27",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CARD",
+                "NOTE",
+                "NOVEL"
+            ],
+            [
+                "WITCH",
+                "UNICORN",
+                "LOCH NESS"
+            ],
+            [
+                "WATER",
+                "CELL",
+                "ORGAN"
+            ],
+            [
+                "SNOW",
+                "MINT",
+                "ICE CREAM"
+            ],
+            [
+                "BEAT",
+                "CRASH",
+                "FALL"
+            ],
+            [
+                "GOLD",
+                "GROUND",
+                "MINE"
+            ],
+            [
+                "PLAY",
+                "AFRICA",
+                "SOUND"
+            ],
+            [
+                "CHURCH",
+                "CHINA",
+                "HOSPITAL"
+            ],
+            [
+                "CODE",
+                "DICE",
+                "DUCK"
+            ],
+            [
+                "HORSE",
+                "WORM",
+                "KANGAROO"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5fb6f3bc48d534199270ad38",
+        "completion_code": "5F7E697E",
+        "age": "22",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States of America",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CANADA",
+                "NEW YORK",
+                "MEXICO"
+            ],
+            [
+                "WIND",
+                "GREEN",
+                "HONEY"
+            ],
+            [
+                "VET",
+                "ORGAN",
+                "LIFE"
+            ],
+            [
+                "BUCK",
+                "APPLE",
+                "BOOM"
+            ],
+            [
+                "DEGREE",
+                "TELESCOPE",
+                "AIR"
+            ],
+            [
+                "COOK",
+                "FORK",
+                "LEMON"
+            ],
+            [
+                "AMERICA",
+                "THEATER",
+                "STAR"
+            ],
+            [
+                "FOREST",
+                "WIND",
+                "ROBIN"
+            ],
+            [
+                "BILL",
+                "CHECK",
+                "CYCLE"
+            ],
+            [
+                "ANGEL",
+                "RABBIT",
+                "SNOW"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61155d36367269b3c1f744b3",
+        "completion_code": "5F7E697E",
+        "age": "22",
+        "gender": "Female",
+        "nationality": "Hispanic",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "REVOLUTION",
+                "GERMANY",
+                "BOOM"
+            ],
+            [
+                "NUT",
+                "SPRING",
+                "BUTTON"
+            ],
+            [
+                "SNOWMAN",
+                "BOOT",
+                "TURKEY"
+            ],
+            [
+                "YARD",
+                "DECK",
+                "WELL"
+            ],
+            [
+                "MAPLE",
+                "ROOT",
+                "STICK"
+            ],
+            [
+                "DATE",
+                "PIT",
+                "FIELD"
+            ],
+            [
+                "WITCH",
+                "BARK",
+                "FOREST"
+            ],
+            [
+                "OPERA",
+                "NOVEL",
+                "FLUTE"
+            ],
+            [
+                "CAT",
+                "FLY",
+                "WITCH"
+            ],
+            [
+                "EAGLE",
+                "BUFFALO",
+                "HORSE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5de1986c040f531f97eb6092",
+        "completion_code": "5F7E697E",
+        "age": "35",
+        "gender": "Male",
+        "nationality": "us",
+        "country": "us",
+        "student": "No",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "WAKE",
+                "LIGHT",
+                "EYE"
+            ],
+            [
+                "HEAD",
+                "SLIP",
+                "SLUG"
+            ],
+            [
+                "ARM",
+                "SPINE",
+                "PLATYPUS"
+            ],
+            [
+                "FAN",
+                "BED",
+                "GROUND"
+            ],
+            [
+                "WATER",
+                "GLASS",
+                "FIGURE"
+            ],
+            [
+                "AUSTRALIA",
+                "BEACH",
+                "DAY"
+            ],
+            [
+                "DEATH",
+                "AGENT",
+                "CONTRACT"
+            ],
+            [
+                "EYE",
+                "HOLE",
+                "WORM"
+            ],
+            [
+                "WHALE",
+                "BEACH",
+                "FISH"
+            ],
+            [
+                "FISH",
+                "DUCK",
+                "SHIP"
+            ]
+        ]
+    },
+    {
+        "subject_id": "59a4b7e0c9281e0001c1bc8f",
+        "completion_code": "5F7E697E",
+        "age": "28",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "High school",
+        "check_num_dif": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "BEAT",
+                "BAT",
+                "HEAD"
+            ],
+            [
+                "SERVER",
+                "SWITCH",
+                "FILM"
+            ],
+            [
+                "AMAZON",
+                "TABLET",
+                "SPOT"
+            ],
+            [
+                "RULER",
+                "SHOE",
+                "PRINCESS"
+            ],
+            [
+                "GROUND",
+                "FISH",
+                "HOLE"
+            ],
+            [
+                "SPY",
+                "MOLE",
+                "POISON"
+            ],
+            [
+                "PIN",
+                "COTTON",
+                "POINT"
+            ],
+            [
+                "CHAIR",
+                "WAKE",
+                "BEACH"
+            ],
+            [
+                "BOND",
+                "HOLLYWOOD",
+                "PISTOL"
+            ],
+            [
+                "THIEF",
+                "GOLD",
+                "LOCK"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5e9f90b332b4b4134dfc2384",
+        "completion_code": "5F7E697E",
+        "age": "20",
+        "gender": "Female",
+        "nationality": "brazil",
+        "country": "usa",
+        "student": "Yes",
+        "language": "english",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "check_words": [
+            [
+                "HORSE",
+                "TURKEY",
+                "DUCK"
+            ],
+            [
+                "ENGLAND",
+                "RULER",
+                "COURT"
+            ],
+            [
+                "MOUTH",
+                "NAIL",
+                "FACE"
+            ],
+            [
+                "HELICOPTER",
+                "HEART",
+                "HORSE"
+            ],
+            [
+                "SCALE",
+                "KEY",
+                "KNIFE"
+            ],
+            [
+                "LOCH NESS",
+                "SCORPION",
+                "MOUSE"
+            ],
+            [
+                "COPPER",
+                "CAT",
+                "CONDUCTOR"
+            ],
+            [
+                "CELL",
+                "MICROSCOPE",
+                "RAY"
+            ],
+            [
+                "SCIENTIST",
+                "TEACHER",
+                "SERVER"
+            ],
+            [
+                "TELESCOPE",
+                "PIT",
+                "NUT"
+            ]
+        ]
+    },
+    {
+        "subject_id": "6168bf103be4a9dc6dee93c4",
+        "completion_code": "5F7E697E",
+        "age": "21",
+        "gender": "Male",
+        "nationality": "United States",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "ICE CREAM",
+                "CARROT",
+                "ROCK"
+            ],
+            [
+                "GAME",
+                "WEB",
+                "STREAM"
+            ],
+            [
+                "POISON",
+                "CRASH",
+                "PISTOL"
+            ],
+            [
+                "NEW YORK",
+                "HOTEL",
+                "SHIP"
+            ],
+            [
+                "MISSILE",
+                "SHOT",
+                "DEATH"
+            ],
+            [
+                "LEMON",
+                "CHICK",
+                "CHOCOLATE"
+            ],
+            [
+                "ICE CREAM",
+                "LEMON",
+                "NUT"
+            ],
+            [
+                "MEXICO",
+                "LINE",
+                "FENCE"
+            ],
+            [
+                "SHAKESPEARE",
+                "UNICORN",
+                "WITCH"
+            ],
+            [
+                "GRACE",
+                "LEAD",
+                "MOUNT"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60fda7e474c47703482dcf2b",
+        "completion_code": "4E778554",
+        "age": "31",
+        "gender": "Female",
+        "nationality": "american",
+        "country": "USA",
+        "student": "No",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "NIGHT",
+                "CRICKET",
+                "ICE"
+            ],
+            [
+                "SQUARE",
+                "POLE",
+                "STICK"
+            ],
+            [
+                "WASHINGTON",
+                "AUSTRALIA",
+                "HOLLYWOOD"
+            ],
+            [
+                "SCREEN",
+                "CIRCLE",
+                "BAR"
+            ],
+            [
+                "LAWYER",
+                "SUPERHERO",
+                "EAGLE"
+            ],
+            [
+                "MOUSE",
+                "WHALE",
+                "OCTOPUS"
+            ],
+            [
+                "AGENT",
+                "SHAKESPEARE",
+                "FILM"
+            ],
+            [
+                "NOVEL",
+                "AGENT",
+                "CONTRACT"
+            ],
+            [
+                "PRESS",
+                "DRILL",
+                "JACK"
+            ],
+            [
+                "SCORPION",
+                "SPIDER",
+                "CAT"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60fe17a7fbe55f58560251a3",
+        "completion_code": "4E778554",
+        "age": "26",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "United States of America",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "BOOT",
+                "TRACK",
+                "SOLDIER"
+            ],
+            [
+                "CHINA",
+                "DRAGON",
+                "LION"
+            ],
+            [
+                "LASER",
+                "NIGHT",
+                "CLUB"
+            ],
+            [
+                "BARK",
+                "SPOT",
+                "STICK"
+            ],
+            [
+                "CONDUCTOR",
+                "LAWYER",
+                "SCHOOL"
+            ],
+            [
+                "WIND",
+                "ROW",
+                "SEAL"
+            ],
+            [
+                "BANK",
+                "BOND",
+                "FIGURE"
+            ],
+            [
+                "KNIGHT",
+                "TOWER",
+                "LONDON"
+            ],
+            [
+                "LIMOUSINE",
+                "KING",
+                "NOVEL"
+            ],
+            [
+                "PLATE",
+                "PLASTIC",
+                "GLASS"
+            ]
+        ]
+    },
+    {
+        "subject_id": "602af403b9bd921f134e27c1",
+        "completion_code": "4E778554",
+        "age": "40",
+        "gender": "Female",
+        "nationality": "United States",
+        "country": "usa",
+        "student": "No",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "SUB",
+                "WATER",
+                "APPLE"
+            ],
+            [
+                "BEAT",
+                "DANCE",
+                "CLUB"
+            ],
+            [
+                "CRICKET",
+                "SLUG",
+                "CRANE"
+            ],
+            [
+                "WALL",
+                "CHAIR",
+                "TABLE"
+            ],
+            [
+                "BOX",
+                "PISTOL",
+                "SPELL"
+            ],
+            [
+                "SHARK",
+                "STREAM",
+                "BERMUDA"
+            ],
+            [
+                "BED",
+                "FORK",
+                "RACKET"
+            ],
+            [
+                "GHOST",
+                "NINJA",
+                "ALIEN"
+            ],
+            [
+                "POUND",
+                "SHOT",
+                "SCALE"
+            ],
+            [
+                "WASHINGTON",
+                "TEMPLE",
+                "ATLANTIS"
+            ]
+        ]
+    },
+    {
+        "subject_id": "614e3f7def73ee04e730819e",
+        "completion_code": "4E778554",
+        "age": "46",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CAR",
+                "LOCK",
+                "CLUB"
+            ],
+            [
+                "EYE",
+                "SCORPION",
+                "MOUSE"
+            ],
+            [
+                "BERLIN",
+                "BERMUDA",
+                "LONDON"
+            ],
+            [
+                "SCORPION",
+                "CAT",
+                "LION"
+            ],
+            [
+                "CRICKET",
+                "GAME",
+                "FIELD"
+            ],
+            [
+                "DANCE",
+                "FIGHTER",
+                "VET"
+            ],
+            [
+                "LAP",
+                "TUBE",
+                "POOL"
+            ],
+            [
+                "BELT",
+                "COTTON",
+                "IRON"
+            ],
+            [
+                "BRIDGE",
+                "TEMPLE",
+                "PYRAMID"
+            ],
+            [
+                "LEPRECHAUN",
+                "SPELL",
+                "ATLANTIS"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60ff6ef6dc8f29d5774ef2fc",
+        "completion_code": "4E778554",
+        "age": "34",
+        "gender": "Female",
+        "nationality": "United States",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "STAR",
+                "SPACE",
+                "JUPITER"
+            ],
+            [
+                "CLOAK",
+                "CAP",
+                "GLOVE"
+            ],
+            [
+                "DRAGON",
+                "LEPRECHAUN",
+                "NINJA"
+            ],
+            [
+                "KANGAROO",
+                "PLATYPUS",
+                "RAY"
+            ],
+            [
+                "LUCK",
+                "MATCH",
+                "JACK"
+            ],
+            [
+                "SPRING",
+                "SNOW",
+                "SHADOW"
+            ],
+            [
+                "EMBASSY",
+                "CHECK",
+                "SCREEN"
+            ],
+            [
+                "APPLE",
+                "CHOCOLATE",
+                "FORK"
+            ],
+            [
+                "ORGAN",
+                "HAND",
+                "PIPE"
+            ],
+            [
+                "SHAKESPEARE",
+                "CROWN",
+                "FRANCE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61088f2454ba31c4f2e800cc",
+        "completion_code": "4E778554",
+        "age": "19",
+        "gender": "Female",
+        "nationality": "American ",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CAST",
+                "HOSPITAL",
+                "ORGAN"
+            ],
+            [
+                "PAN",
+                "STRAW",
+                "GLASS"
+            ],
+            [
+                "AFRICA",
+                "ARM",
+                "AMAZON"
+            ],
+            [
+                "CLIFF",
+                "CHARGE",
+                "CAP"
+            ],
+            [
+                "KING",
+                "BOW",
+                "MARBLE"
+            ],
+            [
+                "AUSTRALIA",
+                "PLANE",
+                "BERLIN"
+            ],
+            [
+                "KIWI",
+                "PALM",
+                "OLIVE"
+            ],
+            [
+                "TURKEY",
+                "LONDON",
+                "EGYPT"
+            ],
+            [
+                "TUBE",
+                "TAP",
+                "TRUNK"
+            ],
+            [
+                "CLUB",
+                "COMPOUND",
+                "BERMUDA"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5c48f00f37da740001e8969c",
+        "completion_code": "4E778554",
+        "age": "32",
+        "gender": "Female",
+        "nationality": "american",
+        "country": "united states",
+        "student": "No",
+        "language": "enlgish",
+        "education": "Some college or university",
+        "check_num_dif": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "check_words": [
+            [
+                "SLUG",
+                "GRASS",
+                "CONCERT"
+            ],
+            [
+                "RULER",
+                "BLOCK",
+                "SWITCH"
+            ],
+            [
+                "HOLLYWOOD",
+                "AGENT",
+                "PRESS"
+            ],
+            [
+                "OIL",
+                "BOOM",
+                "HELICOPTER"
+            ],
+            [
+                "CLUB",
+                "DROP",
+                "SOUL"
+            ],
+            [
+                "STOCK",
+                "LOCK",
+                "PISTOL"
+            ],
+            [
+                "SCIENTIST",
+                "LOG",
+                "LAB"
+            ],
+            [
+                "TURKEY",
+                "YARD",
+                "STRAW"
+            ],
+            [
+                "SMUGGLER",
+                "AGENT",
+                "RING"
+            ],
+            [
+                "TEMPLE",
+                "SCIENTIST",
+                "AZTEC"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5bc648a58fc1350001d0b725",
+        "completion_code": "4E778554",
+        "age": "22",
+        "gender": "Other",
+        "nationality": "American",
+        "country": "US",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "NOVEL",
+                "CONTRACT",
+                "NOTE"
+            ],
+            [
+                "TEMPLE",
+                "EGYPT",
+                "SCHOOL"
+            ],
+            [
+                "BUFFALO",
+                "MEXICO",
+                "CHINA"
+            ],
+            [
+                "JUPITER",
+                "OLYMPUS",
+                "AZTEC"
+            ],
+            [
+                "CRICKET",
+                "GRASS",
+                "CLIFF"
+            ],
+            [
+                "SCUBA DIVER",
+                "TEACHER",
+                "KING"
+            ],
+            [
+                "BOMB",
+                "NET",
+                "PARACHUTE"
+            ],
+            [
+                "HORN",
+                "POISON",
+                "IVORY"
+            ],
+            [
+                "DRESS",
+                "COTTON",
+                "ARM"
+            ],
+            [
+                "DICE",
+                "RING",
+                "FIGURE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61082fa8eef802b086a5c248",
+        "completion_code": "4E778554",
+        "age": "23",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "US",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "HELICOPTER",
+                "ENGINE",
+                "ROBOT"
+            ],
+            [
+                "CHINA",
+                "MOSCOW",
+                "AMERICA"
+            ],
+            [
+                "CRANE",
+                "TAIL",
+                "HORN"
+            ],
+            [
+                "PILOT",
+                "PLANE",
+                "SUPERHERO"
+            ],
+            [
+                "FIRE",
+                "COVER",
+                "BAND"
+            ],
+            [
+                "WIND",
+                "ALPS",
+                "ICE"
+            ],
+            [
+                "MILLIONAIRE",
+                "LEPRECHAUN",
+                "BUCK"
+            ],
+            [
+                "BOW",
+                "CIRCLE",
+                "LAP"
+            ],
+            [
+                "LION",
+                "FOREST",
+                "SEAL"
+            ],
+            [
+                "DICE",
+                "CASINO",
+                "BOOM"
+            ]
+        ]
+    },
+    {
+        "subject_id": "613bacdd35eb71564a1155df",
+        "completion_code": "4E778554",
+        "age": "19",
+        "gender": "Female",
+        "nationality": "american",
+        "country": "usa",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "BALL",
+                "BEACH",
+                "YARD"
+            ],
+            [
+                "LITTER",
+                "LIGHT",
+                "LINK"
+            ],
+            [
+                "MERCURY",
+                "SPACE",
+                "MISSILE"
+            ],
+            [
+                "CAPITAL",
+                "AUSTRALIA",
+                "KANGAROO"
+            ],
+            [
+                "HAWK",
+                "DINOSAUR",
+                "CALF"
+            ],
+            [
+                "GHOST",
+                "PIRATE",
+                "KING"
+            ],
+            [
+                "WITCH",
+                "MERCURY",
+                "SCORPION"
+            ],
+            [
+                "SATELLITE",
+                "GAS",
+                "OIL"
+            ],
+            [
+                "EMBASSY",
+                "ROULETTE",
+                "OIL"
+            ],
+            [
+                "BUCK",
+                "WASHINGTON",
+                "DUCK"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60c80a7a0661f94704771495",
+        "completion_code": "4E778554",
+        "age": "19",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "PLASTIC",
+                "PLATE",
+                "PAN"
+            ],
+            [
+                "STRIKE",
+                "WAR",
+                "SHOT"
+            ],
+            [
+                "VACUUM",
+                "MERCURY",
+                "STAR"
+            ],
+            [
+                "FORK",
+                "PAN",
+                "KETCHUP"
+            ],
+            [
+                "RABBIT",
+                "DINOSAUR",
+                "DOG"
+            ],
+            [
+                "CHICK",
+                "FISH",
+                "BEAR"
+            ],
+            [
+                "CHOCOLATE",
+                "CARROT",
+                "ICE CREAM"
+            ],
+            [
+                "CAP",
+                "RACKET",
+                "BAND"
+            ],
+            [
+                "AZTEC",
+                "ATLANTIS",
+                "ANTARCTICA"
+            ],
+            [
+                "STREAM",
+                "CAPITAL",
+                "AFRICA"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61118e6a49570a8f159fda5e",
+        "completion_code": "4E778554",
+        "age": "20",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "USA",
+        "student": "Yes",
+        "language": "English",
+        "education": "High school",
+        "check_num_dif": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "PUMPKIN",
+                "FORK",
+                "FILE"
+            ],
+            [
+                "SATELLITE",
+                "MAIL",
+                "CELL"
+            ],
+            [
+                "PRINCESS",
+                "GRACE",
+                "KING"
+            ],
+            [
+                "BERRY",
+                "COLD",
+                "NIGHT"
+            ],
+            [
+                "SEAL",
+                "DECK",
+                "FISH"
+            ],
+            [
+                "MASS",
+                "FORCE",
+                "SATELLITE"
+            ],
+            [
+                "RULER",
+                "STAR",
+                "TRIANGLE"
+            ],
+            [
+                "CYCLE",
+                "TAP",
+                "NINJA"
+            ],
+            [
+                "HAND",
+                "YARD",
+                "PLOT"
+            ],
+            [
+                "SHAKESPEARE",
+                "KING",
+                "SPRING"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61158dd320fe29301f66f1a2",
+        "completion_code": "4E778554",
+        "age": "20",
+        "gender": "Female",
+        "nationality": "USA",
+        "country": "USA",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+        ],
+        "check_words": [
+            [
+                "AMERICA",
+                "LUCK",
+                "MILLIONAIRE"
+            ],
+            [
+                "APPLE",
+                "STRAW",
+                "KIWI"
+            ],
+            [
+                "TICK",
+                "SEAL",
+                "DEATH"
+            ],
+            [
+                "HOTEL",
+                "MILLIONAIRE",
+                "THIEF"
+            ],
+            [
+                "LONDON",
+                "AZTEC",
+                "GREECE"
+            ],
+            [
+                "AUSTRALIA",
+                "BERLIN",
+                "SNOW"
+            ],
+            [
+                "STRIKE",
+                "KNIFE",
+                "AMBULANCE"
+            ],
+            [
+                "VET",
+                "LOCH NESS",
+                "FLY"
+            ],
+            [
+                "LEPRECHAUN",
+                "ANGEL",
+                "SPELL"
+            ],
+            [
+                "COPPER",
+                "ROCK",
+                "GAS"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61003bb158741c6a1d79903b",
+        "completion_code": "4E778554",
+        "age": "48",
+        "gender": "Female",
+        "nationality": "United States",
+        "country": "united states",
+        "student": "No",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "LOG",
+                "FOREST",
+                "CHAIR"
+            ],
+            [
+                "HIMALAYAS",
+                "BERMUDA",
+                "AMERICA"
+            ],
+            [
+                "DICE",
+                "NOTE",
+                "BILL"
+            ],
+            [
+                "FAIR",
+                "CHEST",
+                "ARM"
+            ],
+            [
+                "PLAY",
+                "PASS",
+                "PRESS"
+            ],
+            [
+                "STRING",
+                "DUCK",
+                "ROBIN"
+            ],
+            [
+                "TIE",
+                "BOOT",
+                "STRING"
+            ],
+            [
+                "EGYPT",
+                "PHOENIX",
+                "TRIP"
+            ],
+            [
+                "BED",
+                "STAFF",
+                "MICROSCOPE"
+            ],
+            [
+                "KANGAROO",
+                "AUSTRALIA",
+                "DAY"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60fe3b78ab7951f4540a6938",
+        "completion_code": "4E778554",
+        "age": "20",
+        "gender": "Female",
+        "nationality": "USA",
+        "country": "USA",
+        "student": "Yes",
+        "language": "english",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "PAN",
+                "SINK",
+                "KIWI"
+            ],
+            [
+                "GRASS",
+                "DIAMOND",
+                "COTTON"
+            ],
+            [
+                "CALF",
+                "PHOENIX",
+                "LION"
+            ],
+            [
+                "FISH",
+                "SHARK",
+                "COLD"
+            ],
+            [
+                "COOK",
+                "BOTTLE",
+                "IRON"
+            ],
+            [
+                "PLATYPUS",
+                "TAIL",
+                "GRASS"
+            ],
+            [
+                "HAND",
+                "SWING",
+                "BAT"
+            ],
+            [
+                "HAWK",
+                "BAT",
+                "RAY"
+            ],
+            [
+                "CODE",
+                "DICE",
+                "DATE"
+            ],
+            [
+                "PIRATE",
+                "DEATH",
+                "BOMB"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61158eb7f1a7c7447fb9b0e6",
+        "completion_code": "4E778554",
+        "age": "24",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "United States of America",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "SATELLITE",
+                "SPACE",
+                "ROBOT"
+            ],
+            [
+                "CIRCLE",
+                "SQUARE",
+                "FIGURE"
+            ],
+            [
+                "BOX",
+                "CRICKET",
+                "TABLE"
+            ],
+            [
+                "MISSILE",
+                "KNIGHT",
+                "FAN"
+            ],
+            [
+                "FIRE",
+                "DINOSAUR",
+                "SPIDER"
+            ],
+            [
+                "LEMON",
+                "STAR",
+                "BUGLE"
+            ],
+            [
+                "WHALE",
+                "BERLIN",
+                "PYRAMID"
+            ],
+            [
+                "POOL",
+                "BEACH",
+                "LOCH NESS"
+            ],
+            [
+                "PRINCESS",
+                "KETCHUP",
+                "DEATH"
+            ],
+            [
+                "TURKEY",
+                "ANGEL",
+                "OLYMPUS"
+            ]
+        ]
+    },
+    {
+        "subject_id": "611436cc1510765b6b76f89c",
+        "completion_code": "4E778554",
+        "age": "22",
+        "gender": "Male",
+        "nationality": "american",
+        "country": "USA",
+        "student": "No",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "AGENT",
+                "NINJA",
+                "ANGEL"
+            ],
+            [
+                "FILM",
+                "DRESS",
+                "PLAY"
+            ],
+            [
+                "OLYMPUS",
+                "MEXICO",
+                "TOWER"
+            ],
+            [
+                "HIMALAYAS",
+                "BEIJING",
+                "CHINA"
+            ],
+            [
+                "ATLANTIS",
+                "CANADA",
+                "ENGLAND"
+            ],
+            [
+                "OCTOPUS",
+                "ARM",
+                "MOLE"
+            ],
+            [
+                "JAM",
+                "KNIFE",
+                "OLIVE"
+            ],
+            [
+                "WAR",
+                "FIRE",
+                "PIRATE"
+            ],
+            [
+                "BAT",
+                "MOUSE",
+                "BEAR"
+            ],
+            [
+                "HOLLYWOOD",
+                "AGENT",
+                "THEATER"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61086b04ea6a5f5f43224358",
+        "completion_code": "4E778554",
+        "age": "24",
+        "gender": "Female",
+        "nationality": "North American ",
+        "country": "USA",
+        "student": "Yes",
+        "language": "English",
+        "education": "Graduate degree, Masters",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "DRAGON",
+                "OCTOPUS",
+                "CAT"
+            ],
+            [
+                "ROUND",
+                "CELL",
+                "SEAL"
+            ],
+            [
+                "HONEY",
+                "COMPOUND",
+                "SHOP"
+            ],
+            [
+                "SUPERHERO",
+                "KNIGHT",
+                "NURSE"
+            ],
+            [
+                "BED",
+                "LIFE",
+                "IRON"
+            ],
+            [
+                "NEW YORK",
+                "OLYMPUS",
+                "BERLIN"
+            ],
+            [
+                "HOLLYWOOD",
+                "CASINO",
+                "FRANCE"
+            ],
+            [
+                "BACK",
+                "SPINE",
+                "RACKET"
+            ],
+            [
+                "BUFFALO",
+                "COVER",
+                "POLICE"
+            ],
+            [
+                "PYRAMID",
+                "BELL",
+                "BRIDGE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5dbb604ab1df1b16c10a3510",
+        "completion_code": "4E778554",
+        "age": "41",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "PHOENIX",
+                "GERMANY",
+                "ENGLAND"
+            ],
+            [
+                "WITCH",
+                "FILM",
+                "CAST"
+            ],
+            [
+                "HOOK",
+                "LUCK",
+                "FISH"
+            ],
+            [
+                "HORSE",
+                "FOOT",
+                "HORSESHOE"
+            ],
+            [
+                "NEEDLE",
+                "DOCTOR",
+                "DEATH"
+            ],
+            [
+                "PUMPKIN",
+                "HONEY",
+                "ORANGE"
+            ],
+            [
+                "CRASH",
+                "RABBIT",
+                "TIME"
+            ],
+            [
+                "FACE",
+                "MOUTH",
+                "DOCTOR"
+            ],
+            [
+                "ALIEN",
+                "CLOAK",
+                "SPACE"
+            ],
+            [
+                "POOL",
+                "GLASS",
+                "GREEN"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5cf7bfff528ef50001e96f69",
+        "completion_code": "4E778554",
+        "age": "40",
+        "gender": "Male",
+        "nationality": "AMERICAN",
+        "country": "USA",
+        "student": "No",
+        "language": "ENGLISH",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "ENGLAND",
+                "TIME",
+                "MUG"
+            ],
+            [
+                "NIGHT",
+                "WITCH",
+                "SCHOOL"
+            ],
+            [
+                "SHOE",
+                "GLOVE",
+                "ALPS"
+            ],
+            [
+                "PILOT",
+                "LAB",
+                "TUBE"
+            ],
+            [
+                "BERLIN",
+                "CAPITAL",
+                "GOLD"
+            ],
+            [
+                "FISH",
+                "RABBIT",
+                "LION"
+            ],
+            [
+                "TELESCOPE",
+                "SPACE",
+                "PYRAMID"
+            ],
+            [
+                "SHOT",
+                "OPERA",
+                "GAME"
+            ],
+            [
+                "SPIDER",
+                "WORM",
+                "FISH"
+            ],
+            [
+                "DWARF",
+                "WITCH",
+                "DUCK"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5ca24832cc13cf0017659a7a",
+        "completion_code": "4E778554",
+        "age": "53",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "check_words": [
+            [
+                "SHOE",
+                "TRACK",
+                "SWING"
+            ],
+            [
+                "JUPITER",
+                "ANGEL",
+                "STAR"
+            ],
+            [
+                "CHANGE",
+                "AMERICA",
+                "REVOLUTION"
+            ],
+            [
+                "FIGHTER",
+                "ROCK",
+                "DECK"
+            ],
+            [
+                "NAIL",
+                "GIANT",
+                "POLE"
+            ],
+            [
+                "HEAD",
+                "BRIDGE",
+                "PORT"
+            ],
+            [
+                "OCTOPUS",
+                "ICE",
+                "SPRING"
+            ],
+            [
+                "HOSPITAL",
+                "SOUND",
+                "FLUTE"
+            ],
+            [
+                "FLY",
+                "TURKEY",
+                "MOUSE"
+            ],
+            [
+                "LITTER",
+                "NEEDLE",
+                "SPACE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5edfbd316e98a72c5f5bdf16",
+        "completion_code": "4E778554",
+        "age": "27",
+        "gender": "Male",
+        "nationality": "USA",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CARD",
+                "THIEF",
+                "CHECK"
+            ],
+            [
+                "SCORPION",
+                "BAT",
+                "HORSE"
+            ],
+            [
+                "CHEST",
+                "TAIL",
+                "HORN"
+            ],
+            [
+                "SNOW",
+                "WAVE",
+                "SNOWMAN"
+            ],
+            [
+                "TURKEY",
+                "HIMALAYAS",
+                "TOKYO"
+            ],
+            [
+                "PIE",
+                "WATCH",
+                "FAN"
+            ],
+            [
+                "ROME",
+                "CZECH",
+                "TOKYO"
+            ],
+            [
+                "DISEASE",
+                "FOOT",
+                "NURSE"
+            ],
+            [
+                "CROSS",
+                "MASS",
+                "TEMPLE"
+            ],
+            [
+                "PORT",
+                "AMAZON",
+                "LOCH NESS"
+            ]
+        ]
+    },
+    {
+        "subject_id": "6124295c66199c72ceaa9f67",
+        "completion_code": "4E778554",
+        "age": "50",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "High school",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "check_words": [
+            [
+                "BOOT",
+                "GLASS",
+                "PLASTIC"
+            ],
+            [
+                "DINOSAUR",
+                "MAMMOTH",
+                "RABBIT"
+            ],
+            [
+                "ROBIN",
+                "PRINCESS",
+                "BOW"
+            ],
+            [
+                "SHAKESPEARE",
+                "COURT",
+                "DRESS"
+            ],
+            [
+                "FOREST",
+                "SQUARE",
+                "PARK"
+            ],
+            [
+                "JUPITER",
+                "EUROPE",
+                "SPOT"
+            ],
+            [
+                "BED",
+                "WALL",
+                "LOCK"
+            ],
+            [
+                "BEAT",
+                "CAR",
+                "TRIP"
+            ],
+            [
+                "STOCK",
+                "STATE",
+                "BLOCK"
+            ],
+            [
+                "PUMPKIN",
+                "CHOCOLATE",
+                "BOTTLE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60fd64fb28334cadc460cbe0",
+        "completion_code": "4E778554",
+        "age": "19",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "USA",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "HAND",
+                "CELL",
+                "THUMB"
+            ],
+            [
+                "WIND",
+                "BOW",
+                "DEATH"
+            ],
+            [
+                "GERMANY",
+                "EUROPE",
+                "BERLIN"
+            ],
+            [
+                "RAY",
+                "DAY",
+                "LIFE"
+            ],
+            [
+                "DIAMOND",
+                "DRESS",
+                "LUCK"
+            ],
+            [
+                "POLICE",
+                "AGENT",
+                "DRILL"
+            ],
+            [
+                "HOLLYWOOD",
+                "TURKEY",
+                "CHINA"
+            ],
+            [
+                "ALIEN",
+                "GHOST",
+                "WEB"
+            ],
+            [
+                "PHOENIX",
+                "DRAGON",
+                "FIRE"
+            ],
+            [
+                "BOND",
+                "THIEF",
+                "AMBULANCE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "6100d28f1e251a6dff92f0df",
+        "completion_code": "4E778554",
+        "age": "20",
+        "gender": "Female",
+        "nationality": "american",
+        "country": "united states",
+        "student": "Yes",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "FAN",
+                "LAP",
+                "TRACK"
+            ],
+            [
+                "POLE",
+                "AIR",
+                "GREECE"
+            ],
+            [
+                "TEACHER",
+                "FIGHTER",
+                "POLICE"
+            ],
+            [
+                "KNIFE",
+                "ORGAN",
+                "PLASTIC"
+            ],
+            [
+                "SOCK",
+                "IVORY",
+                "CHOCOLATE"
+            ],
+            [
+                "SCIENTIST",
+                "PILOT",
+                "POLICE"
+            ],
+            [
+                "KING",
+                "POISON",
+                "GHOST"
+            ],
+            [
+                "PIE",
+                "ICE CREAM",
+                "WHIP"
+            ],
+            [
+                "MARBLE",
+                "STAFF",
+                "PLANE"
+            ],
+            [
+                "ROME",
+                "JUPITER",
+                "SUPERHERO"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61078acc799213e8793eaa9a",
+        "completion_code": "4E778554",
+        "age": "21",
+        "gender": "Female",
+        "nationality": "american",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "check_words": [
+            [
+                "DWARF",
+                "FILM",
+                "CAST"
+            ],
+            [
+                "THEATER",
+                "CONTRACT",
+                "PLAY"
+            ],
+            [
+                "HOTEL",
+                "STAFF",
+                "FILE"
+            ],
+            [
+                "CAT",
+                "VET",
+                "BAT"
+            ],
+            [
+                "CARD",
+                "ROULETTE",
+                "CASINO"
+            ],
+            [
+                "TRAIN",
+                "ENGINE",
+                "HORN"
+            ],
+            [
+                "POOL",
+                "KEY",
+                "TRIP"
+            ],
+            [
+                "MASS",
+                "JET",
+                "WAR"
+            ],
+            [
+                "PIE",
+                "STRAW",
+                "GLASS"
+            ],
+            [
+                "PITCH",
+                "WATCH",
+                "AGENT"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61181aadd3ba79ab39fd3b10",
+        "completion_code": "4E778554",
+        "age": "24",
+        "gender": "Male",
+        "nationality": "United States",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CAT",
+                "FIELD",
+                "STRAW"
+            ],
+            [
+                "SPY",
+                "LONDON",
+                "FILM"
+            ],
+            [
+                "SHADOW",
+                "SPRING",
+                "MOLE"
+            ],
+            [
+                "GERMANY",
+                "AFRICA",
+                "TRAIN"
+            ],
+            [
+                "VET",
+                "BUFFALO",
+                "EAGLE"
+            ],
+            [
+                "NUT",
+                "KETCHUP",
+                "LEMON"
+            ],
+            [
+                "JET",
+                "STREAM",
+                "AUSTRALIA"
+            ],
+            [
+                "SPIDER",
+                "WEB",
+                "FILM"
+            ],
+            [
+                "UNICORN",
+                "WHIP",
+                "TRACK"
+            ],
+            [
+                "SUIT",
+                "SERVER",
+                "AGENT"
+            ]
+        ]
+    },
+    {
+        "subject_id": "6109dcd00cb99a088058b985",
+        "completion_code": "4E778554",
+        "age": "24",
+        "gender": "Male",
+        "nationality": "White",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "ROBOT",
+                "REVOLUTION",
+                "LAB"
+            ],
+            [
+                "GRASS",
+                "SNOW",
+                "LOG"
+            ],
+            [
+                "RULER",
+                "BLOCK",
+                "LINE"
+            ],
+            [
+                "AMBULANCE",
+                "CRASH",
+                "DISEASE"
+            ],
+            [
+                "PITCH",
+                "SWING",
+                "STADIUM"
+            ],
+            [
+                "GOLD",
+                "HONEY",
+                "BERRY"
+            ],
+            [
+                "AUSTRALIA",
+                "CANADA",
+                "CZECH"
+            ],
+            [
+                "COLD",
+                "SNOW",
+                "LEMON"
+            ],
+            [
+                "BUFFALO",
+                "BUG",
+                "LOCH NESS"
+            ],
+            [
+                "FACE",
+                "ARM",
+                "TOOTH"
+            ]
+        ]
+    },
+    {
+        "subject_id": "616daac868a5b717856853c9",
+        "completion_code": "4E778554",
+        "age": "29",
+        "gender": "Female",
+        "nationality": "White",
+        "country": "United States",
+        "student": "No",
+        "language": "american",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "SHARK",
+                "BUFFALO",
+                "DRAGON"
+            ],
+            [
+                "HOLLYWOOD",
+                "AUSTRALIA",
+                "MEXICO"
+            ],
+            [
+                "TRAIN",
+                "HORN",
+                "HOSPITAL"
+            ],
+            [
+                "MAIL",
+                "SHIP",
+                "TOKYO"
+            ],
+            [
+                "TOKYO",
+                "GREECE",
+                "ENGLAND"
+            ],
+            [
+                "CENTER",
+                "DISEASE",
+                "BAT"
+            ],
+            [
+                "VAN",
+                "ENGINE",
+                "LUCK"
+            ],
+            [
+                "STADIUM",
+                "CONDUCTOR",
+                "HAND"
+            ],
+            [
+                "CAPITAL",
+                "WAR",
+                "SOLDIER"
+            ],
+            [
+                "BRIDGE",
+                "AMBULANCE",
+                "BOOM"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5c1f02a310677f0001da17b8",
+        "completion_code": "4E778554",
+        "age": "64",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "ARM",
+                "SOCK",
+                "HEART"
+            ],
+            [
+                "BAT",
+                "TAIL",
+                "BUCK"
+            ],
+            [
+                "SNOW",
+                "FIRE",
+                "TORCH"
+            ],
+            [
+                "INDIA",
+                "CZECH",
+                "BILL"
+            ],
+            [
+                "FAN",
+                "MOUNT",
+                "POST"
+            ],
+            [
+                "KETCHUP",
+                "HAM",
+                "BOND"
+            ],
+            [
+                "AMAZON",
+                "MAMMOTH",
+                "TUBE"
+            ],
+            [
+                "SNOWMAN",
+                "JUPITER",
+                "SCIENTIST"
+            ],
+            [
+                "WAVE",
+                "BARK",
+                "SWING"
+            ],
+            [
+                "NUT",
+                "HONEY",
+                "PIT"
+            ]
+        ]
+    },
+    {
+        "subject_id": "610486e6db3f8639f1b3a87d",
+        "completion_code": "4E778554",
+        "age": "21",
+        "gender": "Female",
+        "nationality": "american",
+        "country": "usa",
+        "student": "Yes",
+        "language": "english",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "SCHOOL",
+                "NOVEL",
+                "STAFF"
+            ],
+            [
+                "COLD",
+                "WATER",
+                "SNOWMAN"
+            ],
+            [
+                "STAR",
+                "BAND",
+                "LEAD"
+            ],
+            [
+                "HOLLYWOOD",
+                "PRESS",
+                "FIGURE"
+            ],
+            [
+                "AMERICA",
+                "EUROPE",
+                "STATE"
+            ],
+            [
+                "LONDON",
+                "PLANE",
+                "DAY"
+            ],
+            [
+                "MODEL",
+                "NEW YORK",
+                "DRESS"
+            ],
+            [
+                "KID",
+                "LEPRECHAUN",
+                "PUPIL"
+            ],
+            [
+                "STRAW",
+                "FENCE",
+                "SPINE"
+            ],
+            [
+                "WELL",
+                "FIGURE",
+                "CROSS"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5d157a0cb49ab60018e6b0f9",
+        "completion_code": "4E778554",
+        "age": "53",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "Graduate degree, Masters",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "WORM",
+                "WIND",
+                "WATER"
+            ],
+            [
+                "TRUNK",
+                "SOCK",
+                "TIE"
+            ],
+            [
+                "BEIJING",
+                "BERLIN",
+                "PLANE"
+            ],
+            [
+                "STADIUM",
+                "GAME",
+                "RACKET"
+            ],
+            [
+                "BLOCK",
+                "PIT",
+                "NEEDLE"
+            ],
+            [
+                "CLIFF",
+                "NOVEL",
+                "HOLLYWOOD"
+            ],
+            [
+                "NOTE",
+                "SCALE",
+                "CAST"
+            ],
+            [
+                "CHURCH",
+                "COURT",
+                "BELL"
+            ],
+            [
+                "PLOT",
+                "PORT",
+                "PLAY"
+            ],
+            [
+                "BOND",
+                "BOX",
+                "BACK"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60ff0202924aa05a333a36e6",
+        "completion_code": "4E778554",
+        "age": "25",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "ARM",
+                "WAVE",
+                "HAND"
+            ],
+            [
+                "GLOVE",
+                "BED",
+                "HOSPITAL"
+            ],
+            [
+                "DRILL",
+                "OPERA",
+                "SOUND"
+            ],
+            [
+                "PISTOL",
+                "SHOT",
+                "SOLDIER"
+            ],
+            [
+                "SPY",
+                "TIE",
+                "DROP"
+            ],
+            [
+                "LEPRECHAUN",
+                "NINJA",
+                "THIEF"
+            ],
+            [
+                "TORCH",
+                "MISSILE",
+                "BELL"
+            ],
+            [
+                "OPERA",
+                "THEATER",
+                "CHARGE"
+            ],
+            [
+                "BED",
+                "AIR",
+                "CHEST"
+            ],
+            [
+                "WASHINGTON",
+                "CANADA",
+                "FRANCE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5f6b8930b9d9530b1b065360",
+        "completion_code": "4E778554",
+        "age": "39",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "US",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "TURKEY",
+                "HORSE",
+                "DUCK"
+            ],
+            [
+                "DANCE",
+                "WATCH",
+                "PLAY"
+            ],
+            [
+                "GREECE",
+                "SKYSCRAPER",
+                "BRIDGE"
+            ],
+            [
+                "GREECE",
+                "BEIJING",
+                "LONDON"
+            ],
+            [
+                "NIGHT",
+                "DAY",
+                "BOLT"
+            ],
+            [
+                "SLUG",
+                "CLUB",
+                "RING"
+            ],
+            [
+                "COOK",
+                "VET",
+                "SPY"
+            ],
+            [
+                "BOTTLE",
+                "FORK",
+                "PLATE"
+            ],
+            [
+                "DINOSAUR",
+                "CAT",
+                "SCORPION"
+            ],
+            [
+                "HOLLYWOOD",
+                "TRAIN",
+                "HORSESHOE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60f6e8201abc0ee65fa0fd64",
+        "completion_code": "4E778554",
+        "age": "56",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "check_words": [
+            [
+                "COMIC",
+                "NOVEL",
+                "FILE"
+            ],
+            [
+                "SHIP",
+                "COLD",
+                "SUPERHERO"
+            ],
+            [
+                "BATTERY",
+                "BELT",
+                "DRILL"
+            ],
+            [
+                "RABBIT",
+                "SNOW",
+                "GREEN"
+            ],
+            [
+                "SCORPION",
+                "SPIDER",
+                "WORM"
+            ],
+            [
+                "NINJA",
+                "SPY",
+                "HAWK"
+            ],
+            [
+                "WALL",
+                "BUFFALO",
+                "SHARK"
+            ],
+            [
+                "PYRAMID",
+                "AFRICA",
+                "ROME"
+            ],
+            [
+                "HEAD",
+                "KING",
+                "CAP"
+            ],
+            [
+                "SHIP",
+                "BANK",
+                "LEAD"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61119ac023a4ab4a7f23d3b0",
+        "completion_code": "4E778554",
+        "age": "21",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "America",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "LONDON",
+                "ATLANTIS",
+                "JUPITER"
+            ],
+            [
+                "SCALE",
+                "LIGHT",
+                "FORCE"
+            ],
+            [
+                "CHARGE",
+                "BATTERY",
+                "CELL"
+            ],
+            [
+                "POLE",
+                "CLUB",
+                "DANCE"
+            ],
+            [
+                "MISSILE",
+                "BOMB",
+                "NINJA"
+            ],
+            [
+                "YARD",
+                "DECK",
+                "PLAY"
+            ],
+            [
+                "CLIFF",
+                "FENCE",
+                "SPACE"
+            ],
+            [
+                "COMIC",
+                "CRICKET",
+                "PARK"
+            ],
+            [
+                "COLD",
+                "SHIP",
+                "WHALE"
+            ],
+            [
+                "CRANE",
+                "GREEN",
+                "CRICKET"
+            ]
+        ]
+    },
+    {
+        "subject_id": "6132602d6583fc011bd63af5",
+        "completion_code": "4E778554",
+        "age": "22",
+        "gender": "Female",
+        "nationality": "white",
+        "country": "united states",
+        "student": "No",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "MASS",
+                "HIMALAYAS",
+                "BEIJING"
+            ],
+            [
+                "THEATER",
+                "SHAKESPEARE",
+                "ROW"
+            ],
+            [
+                "BED",
+                "WALL",
+                "BOARD"
+            ],
+            [
+                "SOUL",
+                "PIT",
+                "HOLE"
+            ],
+            [
+                "BRIDGE",
+                "TRIP",
+                "YARD"
+            ],
+            [
+                "KING",
+                "DEATH",
+                "SHOT"
+            ],
+            [
+                "PLAY",
+                "STADIUM",
+                "BAND"
+            ],
+            [
+                "SNOW",
+                "MOON",
+                "NIGHT"
+            ],
+            [
+                "SMUGGLER",
+                "PISTOL",
+                "PAPER"
+            ],
+            [
+                "BEACH",
+                "STREAM",
+                "TORCH"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5c04c10e3f265e000168ad7c",
+        "completion_code": "4E778554",
+        "age": "40",
+        "gender": "Female",
+        "nationality": "White",
+        "country": "US",
+        "student": "No",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CARROT",
+                "CLUB",
+                "WELL"
+            ],
+            [
+                "ROCK",
+                "BERRY",
+                "SPRING"
+            ],
+            [
+                "GROUND",
+                "LOG",
+                "STRAW"
+            ],
+            [
+                "DEATH",
+                "WORM",
+                "LION"
+            ],
+            [
+                "PASS",
+                "GAS",
+                "BOOM"
+            ],
+            [
+                "OCTOPUS",
+                "CAT",
+                "WEB"
+            ],
+            [
+                "TRUNK",
+                "BOTTLE",
+                "NET"
+            ],
+            [
+                "HOSPITAL",
+                "BANK",
+                "BRIDGE"
+            ],
+            [
+                "FOREST",
+                "CLIFF",
+                "COPPER"
+            ],
+            [
+                "THIEF",
+                "TAIL",
+                "DISEASE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61111cbeafe50d2a794b7d0a",
+        "completion_code": "4E778554",
+        "age": "25",
+        "gender": "Female",
+        "nationality": "american",
+        "country": "usa",
+        "student": "No",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "FRANCE",
+                "PYRAMID",
+                "SHAKESPEARE"
+            ],
+            [
+                "TABLE",
+                "CELL",
+                "LAB"
+            ],
+            [
+                "PUMPKIN",
+                "JAM",
+                "DUCK"
+            ],
+            [
+                "LINE",
+                "TUBE",
+                "NAIL"
+            ],
+            [
+                "CROSS",
+                "CHURCH",
+                "SOUL"
+            ],
+            [
+                "AMERICA",
+                "BUFFALO",
+                "GERMANY"
+            ],
+            [
+                "ROW",
+                "SHIP",
+                "BRIDGE"
+            ],
+            [
+                "TRUNK",
+                "BEAR",
+                "LITTER"
+            ],
+            [
+                "HOTEL",
+                "STATE",
+                "BEACH"
+            ],
+            [
+                "AMERICA",
+                "LAWYER",
+                "BILL"
+            ]
+        ]
+    },
+    {
+        "subject_id": "6140a97ae9cc49e6625044cc",
+        "completion_code": "4E778554",
+        "age": "23",
+        "gender": "Female",
+        "nationality": "wite",
+        "country": "USA",
+        "student": "Yes",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "MICROSCOPE",
+                "NEEDLE",
+                "DISEASE"
+            ],
+            [
+                "PUPIL",
+                "PIE",
+                "TEACHER"
+            ],
+            [
+                "ALIEN",
+                "RABBIT",
+                "HORSE"
+            ],
+            [
+                "LAWYER",
+                "AGENT",
+                "PILOT"
+            ],
+            [
+                "PLOT",
+                "NOVEL",
+                "CHANGE"
+            ],
+            [
+                "BOOM",
+                "MICROSCOPE",
+                "SPACE"
+            ],
+            [
+                "CIRCLE",
+                "TUBE",
+                "ANGEL"
+            ],
+            [
+                "BEAT",
+                "TOWER",
+                "WAR"
+            ],
+            [
+                "SUIT",
+                "MEXICO",
+                "TRAIN"
+            ],
+            [
+                "AMERICA",
+                "MILLIONAIRE",
+                "KING"
+            ]
+        ]
+    },
+    {
+        "subject_id": "604254f6bacd9a0da3ef81f5",
+        "completion_code": "4E778554",
+        "age": "39",
+        "gender": "Female",
+        "nationality": "AMERICAN",
+        "country": "USA",
+        "student": "No",
+        "language": "ENGLISH",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CHURCH",
+                "CROSS",
+                "CHANGE"
+            ],
+            [
+                "NURSE",
+                "SHOT",
+                "CAST"
+            ],
+            [
+                "ROOT",
+                "TOOTH",
+                "MOUNT"
+            ],
+            [
+                "ORGAN",
+                "PIANO",
+                "PRESS"
+            ],
+            [
+                "ROBOT",
+                "LIGHT",
+                "SUPERHERO"
+            ],
+            [
+                "COMIC",
+                "STAR",
+                "SUPERHERO"
+            ],
+            [
+                "DOCTOR",
+                "HOSPITAL",
+                "CONTRACT"
+            ],
+            [
+                "NET",
+                "SPIKE",
+                "SLIP"
+            ],
+            [
+                "CONCERT",
+                "FLUTE",
+                "PART"
+            ],
+            [
+                "MICROSCOPE",
+                "MOUSE",
+                "GENIUS"
+            ]
+        ]
+    },
+    {
+        "subject_id": "6111a813a02cc8fec35f7809",
+        "completion_code": "4E778554",
+        "age": "20",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            1,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "DATE",
+                "DRAFT",
+                "TAG"
+            ],
+            [
+                "PAPER",
+                "HOOK",
+                "SPIKE"
+            ],
+            [
+                "LIFE",
+                "ALPS",
+                "PARK"
+            ],
+            [
+                "GREECE",
+                "DOCTOR",
+                "TEACHER"
+            ],
+            [
+                "PLATYPUS",
+                "DOG",
+                "CENTAUR"
+            ],
+            [
+                "CAR",
+                "JET",
+                "TRAIN"
+            ],
+            [
+                "BELT",
+                "TRUNK",
+                "ENGINE"
+            ],
+            [
+                "CRANE",
+                "PLATE",
+                "BOTTLE"
+            ],
+            [
+                "BOOT",
+                "ROOT",
+                "TOOTH"
+            ],
+            [
+                "MILLIONAIRE",
+                "PRINCESS",
+                "OPERA"
+            ]
+        ]
+    },
+    {
+        "subject_id": "592533a116210d0001737634",
+        "completion_code": "4E778554",
+        "age": "42",
+        "gender": "Female",
+        "nationality": "Caucasian ",
+        "country": "US",
+        "student": "No",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "UNDERTAKER",
+                "SPRING",
+                "MINE"
+            ],
+            [
+                "SOUL",
+                "CHANGE",
+                "CHURCH"
+            ],
+            [
+                "ICE",
+                "COLD",
+                "DINOSAUR"
+            ],
+            [
+                "BELL",
+                "SCREEN",
+                "TEACHER"
+            ],
+            [
+                "GAME",
+                "CARD",
+                "HAND"
+            ],
+            [
+                "NET",
+                "PAN",
+                "DECK"
+            ],
+            [
+                "TOKYO",
+                "LOCH NESS",
+                "CHINA"
+            ],
+            [
+                "STADIUM",
+                "TOKYO",
+                "AFRICA"
+            ],
+            [
+                "ICE",
+                "GERMANY",
+                "WIND"
+            ],
+            [
+                "CANADA",
+                "EUROPE",
+                "BERMUDA"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5f5a545ec6a95e0e5b5e670e",
+        "completion_code": "4E778554",
+        "age": "22",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "FIRE",
+                "DEGREE",
+                "SNOW"
+            ],
+            [
+                "AMAZON",
+                "GERMANY",
+                "YARD"
+            ],
+            [
+                "LEAD",
+                "MERCURY",
+                "SCIENTIST"
+            ],
+            [
+                "MOSCOW",
+                "MOON",
+                "EGYPT"
+            ],
+            [
+                "PIT",
+                "AIR",
+                "TAP"
+            ],
+            [
+                "LOG",
+                "DUCK",
+                "LIFE"
+            ],
+            [
+                "OLYMPUS",
+                "CASINO",
+                "AMAZON"
+            ],
+            [
+                "BELT",
+                "MINT",
+                "BELL"
+            ],
+            [
+                "WAVE",
+                "BUCK",
+                "LOG"
+            ],
+            [
+                "STAFF",
+                "HOSPITAL",
+                "CAP"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5f4859d23306481f0f0dd2a5",
+        "completion_code": "4E778554",
+        "age": "37",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "PIPE",
+                "HOOD",
+                "BATTERY"
+            ],
+            [
+                "TOWER",
+                "TEMPLE",
+                "NEW YORK"
+            ],
+            [
+                "MASS",
+                "SHADOW",
+                "BACK"
+            ],
+            [
+                "SHADOW",
+                "SEAL",
+                "GHOST"
+            ],
+            [
+                "GLASS",
+                "FIGURE",
+                "POST"
+            ],
+            [
+                "LEMON",
+                "DWARF",
+                "CHICK"
+            ],
+            [
+                "NEEDLE",
+                "PISTOL",
+                "AGENT"
+            ],
+            [
+                "BOARD",
+                "STAFF",
+                "SCHOOL"
+            ],
+            [
+                "SPACE",
+                "SUIT",
+                "COLD"
+            ],
+            [
+                "COMPOUND",
+                "EMBASSY",
+                "BERMUDA"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5ac8328afa3b4e0001738e4e",
+        "completion_code": "4E778554",
+        "age": "58",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "America",
+        "student": "No",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "WEB",
+                "MOUSE",
+                "APPLE"
+            ],
+            [
+                "CLIFF",
+                "TOWER",
+                "PARACHUTE"
+            ],
+            [
+                "ROCK",
+                "DEATH",
+                "ROW"
+            ],
+            [
+                "CODE",
+                "SCIENTIST",
+                "LAB"
+            ],
+            [
+                "COLD",
+                "CHANGE",
+                "TIME"
+            ],
+            [
+                "MOSCOW",
+                "PASS",
+                "PORT"
+            ],
+            [
+                "DOG",
+                "KANGAROO",
+                "LION"
+            ],
+            [
+                "PYRAMID",
+                "ALIEN",
+                "CROWN"
+            ],
+            [
+                "BEACH",
+                "PLAY",
+                "GROUND"
+            ],
+            [
+                "PRINCESS",
+                "THEATER",
+                "HEART"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60fdfc5939de3ee8edb59d41",
+        "completion_code": "4E778554",
+        "age": "27",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "United States of America",
+        "student": "Yes",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "FLY",
+                "SLUG",
+                "SPIDER"
+            ],
+            [
+                "HOOD",
+                "CAR",
+                "BELT"
+            ],
+            [
+                "VET",
+                "TURKEY",
+                "MOUSE"
+            ],
+            [
+                "JACK",
+                "GOLD",
+                "LEPRECHAUN"
+            ],
+            [
+                "NEW YORK",
+                "SKYSCRAPER",
+                "BEIJING"
+            ],
+            [
+                "HOLE",
+                "FIELD",
+                "GRASS"
+            ],
+            [
+                "BOND",
+                "STRING",
+                "LINK"
+            ],
+            [
+                "SPRING",
+                "SWING",
+                "PLAY"
+            ],
+            [
+                "GREEN",
+                "CAPITAL",
+                "SHOP"
+            ],
+            [
+                "BAT",
+                "FIELD",
+                "PARK"
+            ]
+        ]
+    },
+    {
+        "subject_id": "6152040631c2dfdb2fa3ddbb",
+        "completion_code": "4E778554",
+        "age": "41",
+        "gender": "Male",
+        "nationality": "USA",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "Graduate degree, Masters",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "HIMALAYAS",
+                "MINE",
+                "ALPS"
+            ],
+            [
+                "MERCURY",
+                "WASHINGTON",
+                "AFRICA"
+            ],
+            [
+                "WATCH",
+                "GLOVE",
+                "SOCK"
+            ],
+            [
+                "AGENT",
+                "BOND",
+                "BERLIN"
+            ],
+            [
+                "SHOE",
+                "LAP",
+                "CHAIR"
+            ],
+            [
+                "SCIENTIST",
+                "MODEL",
+                "SUIT"
+            ],
+            [
+                "TEACHER",
+                "STAFF",
+                "POOL"
+            ],
+            [
+                "SOCK",
+                "BOX",
+                "GLASS"
+            ],
+            [
+                "FRANCE",
+                "MOON",
+                "SPACE"
+            ],
+            [
+                "OLYMPUS",
+                "MOON",
+                "TURKEY"
+            ]
+        ]
+    },
+    {
+        "subject_id": "611eef754123647098e9932b",
+        "completion_code": "4E778554",
+        "age": "19",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CRICKET",
+                "SHOT",
+                "FIELD"
+            ],
+            [
+                "SHAKESPEARE",
+                "REVOLUTION",
+                "BILL"
+            ],
+            [
+                "SATELLITE",
+                "TELESCOPE",
+                "WATCH"
+            ],
+            [
+                "DOCTOR",
+                "DAY",
+                "APPLE"
+            ],
+            [
+                "FACE",
+                "HEAD",
+                "MOLE"
+            ],
+            [
+                "CHOCOLATE",
+                "DATE",
+                "FALL"
+            ],
+            [
+                "DRAGON",
+                "PRINCESS",
+                "TAP"
+            ],
+            [
+                "FAN",
+                "TUBE",
+                "DAY"
+            ],
+            [
+                "WASHER",
+                "BOOM",
+                "SOUND"
+            ],
+            [
+                "THEATER",
+                "PITCH",
+                "HOLLYWOOD"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5dea494eb3adb21655dfadf4",
+        "completion_code": "4E778554",
+        "age": "45",
+        "gender": "Male",
+        "nationality": "usa",
+        "country": "usa",
+        "student": "No",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ],
+        "check_words": [
+            [
+                "LONDON",
+                "TUBE",
+                "MOSCOW"
+            ],
+            [
+                "MAMMOTH",
+                "UNICORN",
+                "CAT"
+            ],
+            [
+                "NEW YORK",
+                "AUSTRALIA",
+                "MOON"
+            ],
+            [
+                "MISSILE",
+                "GHOST",
+                "SHOT"
+            ],
+            [
+                "CHINA",
+                "APPLE",
+                "WEB"
+            ],
+            [
+                "LEPRECHAUN",
+                "YARD",
+                "GREEN"
+            ],
+            [
+                "BILL",
+                "DEGREE",
+                "TAG"
+            ],
+            [
+                "HORN",
+                "LION",
+                "DRAGON"
+            ],
+            [
+                "WORM",
+                "PARK",
+                "AMAZON"
+            ],
+            [
+                "WORM",
+                "CALF",
+                "SCORPION"
+            ]
+        ]
+    },
+    {
+        "subject_id": "57d70b2247180e0001f100e3",
+        "completion_code": "4E778554",
+        "age": "39",
+        "gender": "Male",
+        "nationality": "american",
+        "country": "united states",
+        "student": "No",
+        "language": "english",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            2,
+            1,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "COLD",
+                "BERLIN",
+                "CLIFF"
+            ],
+            [
+                "BELL",
+                "WAKE",
+                "CYCLE"
+            ],
+            [
+                "ORGAN",
+                "HOSPITAL",
+                "TOOTH"
+            ],
+            [
+                "LIFE",
+                "DOG",
+                "MAMMOTH"
+            ],
+            [
+                "BOARD",
+                "KID",
+                "IVORY"
+            ],
+            [
+                "SNOWMAN",
+                "KNIGHT",
+                "STRAW"
+            ],
+            [
+                "AMERICA",
+                "GRACE",
+                "PIRATE"
+            ],
+            [
+                "PARACHUTE",
+                "ANGEL",
+                "BANK"
+            ],
+            [
+                "PILOT",
+                "PIRATE",
+                "SCUBA DIVER"
+            ],
+            [
+                "TOOTH",
+                "NAIL",
+                "DRAGON"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60fd036046482faddca9a6c3",
+        "completion_code": "4E778554",
+        "age": "23",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "PLAY",
+                "PARK",
+                "RACKET"
+            ],
+            [
+                "PIE",
+                "KIWI",
+                "BERRY"
+            ],
+            [
+                "WAVE",
+                "SEAL",
+                "SHIP"
+            ],
+            [
+                "BOLT",
+                "POISON",
+                "BATTERY"
+            ],
+            [
+                "TUBE",
+                "HOOD",
+                "CIRCLE"
+            ],
+            [
+                "ANGEL",
+                "DRAGON",
+                "TICK"
+            ],
+            [
+                "OIL",
+                "CONDUCTOR",
+                "TRACK"
+            ],
+            [
+                "CASINO",
+                "AMERICA",
+                "CHECK"
+            ],
+            [
+                "WATCH",
+                "SOUL",
+                "THEATER"
+            ],
+            [
+                "CHINA",
+                "MERCURY",
+                "GIANT"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5cbc97cd214b1a0001ccfa53",
+        "completion_code": "4E778554",
+        "age": "69",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "Graduate degree, Masters",
+        "check_num_dif": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CAR",
+                "STADIUM",
+                "POLE"
+            ],
+            [
+                "HOLLYWOOD",
+                "HEART",
+                "MAIL"
+            ],
+            [
+                "NOVEL",
+                "ENGLAND",
+                "LINE"
+            ],
+            [
+                "COPPER",
+                "BEAT",
+                "WATCH"
+            ],
+            [
+                "RING",
+                "TRACK",
+                "GAME"
+            ],
+            [
+                "SATELLITE",
+                "MISSILE",
+                "ARM"
+            ],
+            [
+                "KANGAROO",
+                "GIANT",
+                "ANTARCTICA"
+            ],
+            [
+                "MATCH",
+                "POLICE",
+                "EMBASSY"
+            ],
+            [
+                "CANADA",
+                "BEAR",
+                "HAM"
+            ],
+            [
+                "THIEF",
+                "HELICOPTER",
+                "HOTEL"
+            ]
+        ]
+    },
+    {
+        "subject_id": "610c78a51f9589fefddab6e4",
+        "completion_code": "4E778554",
+        "age": "18",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "USA",
+        "student": "Yes",
+        "language": "English",
+        "education": "High school",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "MOLE",
+                "DROP",
+                "COMPOUND"
+            ],
+            [
+                "BOMB",
+                "OPERA",
+                "FAN"
+            ],
+            [
+                "SPACE",
+                "BED",
+                "SHADOW"
+            ],
+            [
+                "BERLIN",
+                "TOKYO",
+                "LONDON"
+            ],
+            [
+                "LEPRECHAUN",
+                "SCORPION",
+                "SLUG"
+            ],
+            [
+                "MERCURY",
+                "JUPITER",
+                "ROUND"
+            ],
+            [
+                "SNOW",
+                "BED",
+                "MOUSE"
+            ],
+            [
+                "CHEST",
+                "TRIANGLE",
+                "FENCE"
+            ],
+            [
+                "CODE",
+                "LINK",
+                "SERVER"
+            ],
+            [
+                "STRIKE",
+                "BOMB",
+                "DRILL"
+            ]
+        ]
+    },
+    {
+        "subject_id": "61722e9337cb0deabd4ad9a5",
+        "completion_code": "4E778554",
+        "age": "30",
+        "gender": "Other",
+        "nationality": "American",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "FILM",
+                "PLAY",
+                "COMIC"
+            ],
+            [
+                "AUSTRALIA",
+                "CANADA",
+                "FRANCE"
+            ],
+            [
+                "GRASS",
+                "LOG",
+                "PARK"
+            ],
+            [
+                "HAM",
+                "NUT",
+                "BUG"
+            ],
+            [
+                "PALM",
+                "MOUTH",
+                "HEART"
+            ],
+            [
+                "JAM",
+                "TAP",
+                "CODE"
+            ],
+            [
+                "NET",
+                "TIE",
+                "STADIUM"
+            ],
+            [
+                "MINT",
+                "THUMB",
+                "MAPLE"
+            ],
+            [
+                "RABBIT",
+                "PLATYPUS",
+                "CAT"
+            ],
+            [
+                "WEB",
+                "BOND",
+                "STRING"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5e4a1730c94447480594cea4",
+        "completion_code": "4E778554",
+        "age": "34",
+        "gender": "Female",
+        "nationality": "USA",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "STRIKE",
+                "TAP",
+                "CLUB"
+            ],
+            [
+                "ALIEN",
+                "SPY",
+                "AMAZON"
+            ],
+            [
+                "KING",
+                "GENIUS",
+                "SMUGGLER"
+            ],
+            [
+                "PALM",
+                "LEMON",
+                "ORANGE"
+            ],
+            [
+                "MODEL",
+                "UNDERTAKER",
+                "NURSE"
+            ],
+            [
+                "LAB",
+                "RABBIT",
+                "KANGAROO"
+            ],
+            [
+                "SCUBA DIVER",
+                "MILLIONAIRE",
+                "TOWER"
+            ],
+            [
+                "CENTAUR",
+                "PHOENIX",
+                "ROBOT"
+            ],
+            [
+                "WAR",
+                "FIRE",
+                "BOMB"
+            ],
+            [
+                "SCHOOL",
+                "BRIDGE",
+                "PORT"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5c1150e31e7d6900018207ef",
+        "completion_code": "4E778554",
+        "age": "75",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "SLUG",
+                "LASER",
+                "SHOT"
+            ],
+            [
+                "WELL",
+                "POOL",
+                "BRIDGE"
+            ],
+            [
+                "SHOT",
+                "HOSPITAL",
+                "DISEASE"
+            ],
+            [
+                "FOOT",
+                "HOLE",
+                "KING"
+            ],
+            [
+                "PARACHUTE",
+                "DRILL",
+                "CONDUCTOR"
+            ],
+            [
+                "AUSTRALIA",
+                "CHINA",
+                "TOKYO"
+            ],
+            [
+                "WITCH",
+                "CENTAUR",
+                "UNICORN"
+            ],
+            [
+                "NUT",
+                "MOUNT",
+                "OIL"
+            ],
+            [
+                "MATCH",
+                "FILE",
+                "ROW"
+            ],
+            [
+                "THIEF",
+                "GENIUS",
+                "UNDERTAKER"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5e4465013f75e52fc82f7096",
+        "completion_code": "4E778554",
+        "age": "44",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "USA",
+        "student": "No",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "MATCH",
+                "BALL",
+                "GROUND"
+            ],
+            [
+                "TABLE",
+                "PLATE",
+                "PLASTIC"
+            ],
+            [
+                "ANTARCTICA",
+                "GRASS",
+                "CLIFF"
+            ],
+            [
+                "STRIKE",
+                "BOLT",
+                "DROP"
+            ],
+            [
+                "TOOTH",
+                "MOUTH",
+                "LEAD"
+            ],
+            [
+                "ROSE",
+                "ORANGE",
+                "CARROT"
+            ],
+            [
+                "SLUG",
+                "PLATYPUS",
+                "LEPRECHAUN"
+            ],
+            [
+                "FILE",
+                "TAG",
+                "NOTE"
+            ],
+            [
+                "SUPERHERO",
+                "ROBIN",
+                "BOW"
+            ],
+            [
+                "BOOT",
+                "QUEEN",
+                "FIELD"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5eceeccc97ef6c30c153f285",
+        "completion_code": "4E778554",
+        "age": "22",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United Stated Of America",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "EUROPE",
+                "SHAKESPEARE",
+                "POUND"
+            ],
+            [
+                "HAND",
+                "EYE",
+                "CHEST"
+            ],
+            [
+                "AGENT",
+                "SPY",
+                "GIANT"
+            ],
+            [
+                "HOSPITAL",
+                "NURSE",
+                "HEART"
+            ],
+            [
+                "GLASS",
+                "STRAW",
+                "MOUTH"
+            ],
+            [
+                "UNICORN",
+                "CENTAUR",
+                "MOUSE"
+            ],
+            [
+                "KING",
+                "POLICE",
+                "COOK"
+            ],
+            [
+                "STAFF",
+                "BOW",
+                "NAIL"
+            ],
+            [
+                "BUCK",
+                "SLUG",
+                "DUCK"
+            ],
+            [
+                "NEW YORK",
+                "OLYMPUS",
+                "CZECH"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5aec76f344f70e0001fb250c",
+        "completion_code": "4E778554",
+        "age": "22",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "USA",
+        "student": "Yes",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "NUT",
+                "NINJA",
+                "NURSE"
+            ],
+            [
+                "TICK",
+                "SPIDER",
+                "RABBIT"
+            ],
+            [
+                "KANGAROO",
+                "DINOSAUR",
+                "EAGLE"
+            ],
+            [
+                "PRESS",
+                "STRING",
+                "BOND"
+            ],
+            [
+                "POST",
+                "ROOT",
+                "STAFF"
+            ],
+            [
+                "DEATH",
+                "GIANT",
+                "JACK"
+            ],
+            [
+                "MOON",
+                "TIE",
+                "FORCE"
+            ],
+            [
+                "SCORPION",
+                "KIWI",
+                "KANGAROO"
+            ],
+            [
+                "BELT",
+                "BUGLE",
+                "BUCK"
+            ],
+            [
+                "SPOT",
+                "JUPITER",
+                "STAR"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5b0f873bd282ff00015bcd88",
+        "completion_code": "4E778554",
+        "age": "25",
+        "gender": "Male",
+        "nationality": "Middle Eastern/White",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "Graduate degree, Masters",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "OIL",
+                "HAM",
+                "BAR"
+            ],
+            [
+                "MISSILE",
+                "AIR",
+                "JET"
+            ],
+            [
+                "NET",
+                "BEACH",
+                "OCTOPUS"
+            ],
+            [
+                "BEACH",
+                "PIRATE",
+                "HAND"
+            ],
+            [
+                "LEPRECHAUN",
+                "GREEN",
+                "BELL"
+            ],
+            [
+                "ANTARCTICA",
+                "GERMANY",
+                "MOSCOW"
+            ],
+            [
+                "GERMANY",
+                "FRANCE",
+                "ENGLAND"
+            ],
+            [
+                "DISEASE",
+                "MISSILE",
+                "NINJA"
+            ],
+            [
+                "POOL",
+                "SHIP",
+                "TUBE"
+            ],
+            [
+                "KID",
+                "LITTER",
+                "CALF"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5f52c941fc18905c7e8f78fd",
+        "completion_code": "4E778554",
+        "age": "43",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "Graduate degree, Masters",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "SPIKE",
+                "TRIANGLE",
+                "HORN"
+            ],
+            [
+                "LIGHT",
+                "SPOT",
+                "SWITCH"
+            ],
+            [
+                "IRON",
+                "LEAD",
+                "SHOT"
+            ],
+            [
+                "EUROPE",
+                "PHOENIX",
+                "GREECE"
+            ],
+            [
+                "CLIFF",
+                "FALL",
+                "CHAIR"
+            ],
+            [
+                "FORCE",
+                "POUND",
+                "CHARGE"
+            ],
+            [
+                "TORCH",
+                "GAS",
+                "WATER"
+            ],
+            [
+                "TELESCOPE",
+                "POLE",
+                "SPRING"
+            ],
+            [
+                "DUCK",
+                "SUPERHERO",
+                "HELICOPTER"
+            ],
+            [
+                "ALPS",
+                "GRASS",
+                "BUCK"
+            ]
+        ]
+    },
+    {
+        "subject_id": "558955ebfdf99b6bd06016c9",
+        "completion_code": "4E778554",
+        "age": "31",
+        "gender": "Male",
+        "nationality": "USA",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "VAN",
+                "KEY",
+                "MODEL"
+            ],
+            [
+                "BOARD",
+                "FENCE",
+                "DECK"
+            ],
+            [
+                "MOLE",
+                "SLUG",
+                "HAWK"
+            ],
+            [
+                "MICROSCOPE",
+                "NOTE",
+                "LASER"
+            ],
+            [
+                "SOLDIER",
+                "PILOT",
+                "KNIGHT"
+            ],
+            [
+                "FLY",
+                "LION",
+                "SEAL"
+            ],
+            [
+                "AUSTRALIA",
+                "GERMANY",
+                "MOSCOW"
+            ],
+            [
+                "AUSTRALIA",
+                "INDIA",
+                "CHINA"
+            ],
+            [
+                "TRACK",
+                "POOL",
+                "ROULETTE"
+            ],
+            [
+                "TELESCOPE",
+                "SATURN",
+                "DEGREE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "612fcbbd5386d9edb42da147",
+        "completion_code": "4E778554",
+        "age": "32",
+        "gender": "Male",
+        "nationality": "White",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "High school",
+        "check_num_dif": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "ALPS",
+                "BOTTLE",
+                "PORT"
+            ],
+            [
+                "STAFF",
+                "KING",
+                "PRINCESS"
+            ],
+            [
+                "WELL",
+                "PIT",
+                "ALPS"
+            ],
+            [
+                "MILLIONAIRE",
+                "KEY",
+                "PIRATE"
+            ],
+            [
+                "AMERICA",
+                "PARK",
+                "DAY"
+            ],
+            [
+                "GAME",
+                "CARD",
+                "TAG"
+            ],
+            [
+                "BEIJING",
+                "FRANCE",
+                "EUROPE"
+            ],
+            [
+                "TABLE",
+                "PLATE",
+                "CHAIR"
+            ],
+            [
+                "FISH",
+                "OIL",
+                "OLIVE"
+            ],
+            [
+                "APPLE",
+                "STRING",
+                "TOOTH"
+            ]
+        ]
+    },
+    {
+        "subject_id": "600f682d19c892156b6b176a",
+        "completion_code": "4E778554",
+        "age": "54",
+        "gender": "Male",
+        "nationality": "usa",
+        "country": "usa",
+        "student": "No",
+        "language": "english",
+        "education": "Graduate degree, Masters",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CRICKET",
+                "ROULETTE",
+                "PITCH"
+            ],
+            [
+                "GREECE",
+                "EMBASSY",
+                "STADIUM"
+            ],
+            [
+                "PARACHUTE",
+                "SATURN",
+                "SPACE"
+            ],
+            [
+                "FAN",
+                "SWITCH",
+                "RULER"
+            ],
+            [
+                "MUG",
+                "BOTTLE",
+                "DRAFT"
+            ],
+            [
+                "PYRAMID",
+                "NINJA",
+                "SPY"
+            ],
+            [
+                "BANK",
+                "SMUGGLER",
+                "MUG"
+            ],
+            [
+                "CAPITAL",
+                "COURT",
+                "TRACK"
+            ],
+            [
+                "KING",
+                "CHEST",
+                "PIRATE"
+            ],
+            [
+                "ENGLAND",
+                "JUPITER",
+                "BERLIN"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5ee529eee975180b7dd498dd",
+        "completion_code": "4E778554",
+        "age": "29",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "U.S.A",
+        "student": "No",
+        "language": "English",
+        "education": "Graduate degree, Masters",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "STAR",
+                "DWARF",
+                "MERCURY"
+            ],
+            [
+                "CASINO",
+                "GAME",
+                "NIGHT"
+            ],
+            [
+                "WASHINGTON",
+                "FRANCE",
+                "SKYSCRAPER"
+            ],
+            [
+                "UNICORN",
+                "LEPRECHAUN",
+                "CLOAK"
+            ],
+            [
+                "FISH",
+                "DOG",
+                "DINOSAUR"
+            ],
+            [
+                "JAM",
+                "BAND",
+                "VAN"
+            ],
+            [
+                "SATURN",
+                "NIGHT",
+                "JET"
+            ],
+            [
+                "DIAMOND",
+                "PLASTIC",
+                "DECK"
+            ],
+            [
+                "DOCTOR",
+                "FACE",
+                "MASS"
+            ],
+            [
+                "PENGUIN",
+                "EAGLE",
+                "SEAL"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60461ebcb6a36e04513f1ee9",
+        "completion_code": "4E778554",
+        "age": "48",
+        "gender": "Male",
+        "nationality": "white",
+        "country": "usa",
+        "student": "No",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+        ],
+        "check_words": [
+            [
+                "ENGINE",
+                "GLASS",
+                "BOND"
+            ],
+            [
+                "TOKYO",
+                "JET",
+                "BOOM"
+            ],
+            [
+                "SPACE",
+                "GIANT",
+                "TRAIN"
+            ],
+            [
+                "PRINCESS",
+                "NURSE",
+                "CHICK"
+            ],
+            [
+                "GERMANY",
+                "INDIA",
+                "LOCH NESS"
+            ],
+            [
+                "BOOT",
+                "CLOAK",
+                "GOLD"
+            ],
+            [
+                "DOG",
+                "UNICORN",
+                "LION"
+            ],
+            [
+                "LONDON",
+                "CHINA",
+                "FIELD"
+            ],
+            [
+                "THIEF",
+                "SPY",
+                "FILM"
+            ],
+            [
+                "DEATH",
+                "DINOSAUR",
+                "CYCLE"
+            ]
+        ]
+    },
+    {
+        "subject_id": "612944f9b8a68a69978cf645",
+        "completion_code": "4E778554",
+        "age": "24",
+        "gender": "Male",
+        "nationality": "american",
+        "country": "usa",
+        "student": "No",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "SINK",
+                "LITTER",
+                "MUG"
+            ],
+            [
+                "MEXICO",
+                "EUROPE",
+                "MOSCOW"
+            ],
+            [
+                "BAND",
+                "DATE",
+                "CONCERT"
+            ],
+            [
+                "ANTARCTICA",
+                "JUPITER",
+                "MOSCOW"
+            ],
+            [
+                "PILOT",
+                "SNOWMAN",
+                "VET"
+            ],
+            [
+                "BERRY",
+                "APPLE",
+                "GREEN"
+            ],
+            [
+                "DINOSAUR",
+                "LION",
+                "WASHINGTON"
+            ],
+            [
+                "BILL",
+                "GOLD",
+                "LINE"
+            ],
+            [
+                "TEMPLE",
+                "LOCH NESS",
+                "ANGEL"
+            ],
+            [
+                "WATER",
+                "SOUND",
+                "GLASS"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5d4b265b72db9d0015e8aac6",
+        "completion_code": "4E778554",
+        "age": "29",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "NEW YORK",
+                "SNOWMAN",
+                "CANADA"
+            ],
+            [
+                "PIN",
+                "BAND",
+                "TAIL"
+            ],
+            [
+                "HORN",
+                "FAN",
+                "AIR"
+            ],
+            [
+                "WAKE",
+                "BOOM",
+                "SOUND"
+            ],
+            [
+                "OPERA",
+                "CONCERT",
+                "CANADA"
+            ],
+            [
+                "MOSCOW",
+                "BEIJING",
+                "TOWER"
+            ],
+            [
+                "CRANE",
+                "HOLE",
+                "BLOCK"
+            ],
+            [
+                "CHEST",
+                "CROWN",
+                "LEPRECHAUN"
+            ],
+            [
+                "SUPERHERO",
+                "LASER",
+                "FIGHTER"
+            ],
+            [
+                "FOREST",
+                "FALL",
+                "YARD"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60d0d91b77fec0f50db191ab",
+        "completion_code": "4E778554",
+        "age": "34",
+        "gender": "Male",
+        "nationality": "White",
+        "country": "USA",
+        "student": "No",
+        "language": "English ",
+        "education": "High school",
+        "check_num_dif": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "BILL",
+                "CHANGE",
+                "CASINO"
+            ],
+            [
+                "HAWK",
+                "TURKEY",
+                "KANGAROO"
+            ],
+            [
+                "GHOST",
+                "NURSE",
+                "BERMUDA"
+            ],
+            [
+                "NET",
+                "SPIKE",
+                "ARM"
+            ],
+            [
+                "LEAD",
+                "LAP",
+                "LEMON"
+            ],
+            [
+                "PRINCESS",
+                "KNIGHT",
+                "KING"
+            ],
+            [
+                "EUROPE",
+                "LONDON",
+                "SOLDIER"
+            ],
+            [
+                "PISTOL",
+                "SCHOOL",
+                "AMAZON"
+            ],
+            [
+                "ATLANTIS",
+                "NEW YORK",
+                "BERLIN"
+            ],
+            [
+                "CONCERT",
+                "LEAD",
+                "STADIUM"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60b85becc8a6814025bc03f6",
+        "completion_code": "4E778554",
+        "age": "41",
+        "gender": "Male",
+        "nationality": "USA",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "BOND",
+                "CONTRACT",
+                "DIAMOND"
+            ],
+            [
+                "PENGUIN",
+                "SHARK",
+                "OCTOPUS"
+            ],
+            [
+                "ALIEN",
+                "PYRAMID",
+                "GREECE"
+            ],
+            [
+                "STRING",
+                "PLAY",
+                "WAVE"
+            ],
+            [
+                "DECK",
+                "LIFE",
+                "SHOP"
+            ],
+            [
+                "TABLE",
+                "HOOD",
+                "GLOVE"
+            ],
+            [
+                "HAM",
+                "GREEN",
+                "FACE"
+            ],
+            [
+                "SHOP",
+                "DANCE",
+                "NIGHT"
+            ],
+            [
+                "CASINO",
+                "CRICKET",
+                "CONCERT"
+            ],
+            [
+                "BOW",
+                "WATCH",
+                "PANTS"
+            ]
+        ]
+    },
+    {
+        "subject_id": "6107992d2e980ec056f40ebb",
+        "completion_code": "4E778554",
+        "age": "25",
+        "gender": "Male",
+        "nationality": "America",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "check_words": [
+            [
+                "CROWN",
+                "TEMPLE",
+                "SCORPION"
+            ],
+            [
+                "COMIC",
+                "PASS",
+                "THEATER"
+            ],
+            [
+                "CAT",
+                "FOREST",
+                "BAT"
+            ],
+            [
+                "PLAY",
+                "GAME",
+                "FILM"
+            ],
+            [
+                "EUROPE",
+                "EMBASSY",
+                "MERCURY"
+            ],
+            [
+                "GROUND",
+                "DROP",
+                "PILOT"
+            ],
+            [
+                "PYRAMID",
+                "DIAMOND",
+                "SOUL"
+            ],
+            [
+                "WASHINGTON",
+                "BEAR",
+                "FIRE"
+            ],
+            [
+                "WAVE",
+                "ORANGE",
+                "BOOM"
+            ],
+            [
+                "MISSILE",
+                "TELESCOPE",
+                "MODEL"
+            ]
+        ]
+    },
+    {
+        "subject_id": "601ca9b9889d5f811be6946c",
+        "completion_code": "4E778554",
+        "age": "22",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "America",
+        "student": "Yes",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "KANGAROO",
+                "FOREST",
+                "MOUNT"
+            ],
+            [
+                "SPY",
+                "DRAFT",
+                "SOLDIER"
+            ],
+            [
+                "CHAIR",
+                "PUPIL",
+                "FILE"
+            ],
+            [
+                "BAT",
+                "PITCH",
+                "SPRING"
+            ],
+            [
+                "OLYMPUS",
+                "BOLT",
+                "PHOENIX"
+            ],
+            [
+                "FENCE",
+                "ARM",
+                "GAME"
+            ],
+            [
+                "CHOCOLATE",
+                "HIMALAYAS",
+                "ALPS"
+            ],
+            [
+                "ATLANTIS",
+                "BRIDGE",
+                "PIPE"
+            ],
+            [
+                "CHINA",
+                "NEW YORK",
+                "BERLIN"
+            ],
+            [
+                "DWARF",
+                "KING",
+                "FILM"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5b9b0f12d1ff7a00013b3b8a",
+        "completion_code": "4E778554",
+        "age": "32",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "SOUL",
+                "OPERA",
+                "FLUTE"
+            ],
+            [
+                "CELL",
+                "FILE",
+                "LINK"
+            ],
+            [
+                "DEATH",
+                "PIRATE",
+                "SHADOW"
+            ],
+            [
+                "YARD",
+                "PLOT",
+                "GRASS"
+            ],
+            [
+                "WITCH",
+                "CAT",
+                "CHICK"
+            ],
+            [
+                "DUCK",
+                "WORM",
+                "OLIVE"
+            ],
+            [
+                "OPERA",
+                "FILM",
+                "EYE"
+            ],
+            [
+                "MARCH",
+                "PLAY",
+                "MOUNT"
+            ],
+            [
+                "KIWI",
+                "MINT",
+                "BERRY"
+            ],
+            [
+                "KNIGHT",
+                "GENIUS",
+                "LAWYER"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5ef937f1ca998b000ca8c947",
+        "completion_code": "4E778554",
+        "age": "37",
+        "gender": "Male",
+        "nationality": "USA",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "KNIFE",
+                "SPIKE",
+                "KNIGHT"
+            ],
+            [
+                "BUFFALO",
+                "HORSE",
+                "TURKEY"
+            ],
+            [
+                "STAR",
+                "SPACE",
+                "FLY"
+            ],
+            [
+                "BEIJING",
+                "AMERICA",
+                "HOTEL"
+            ],
+            [
+                "ENGLAND",
+                "MEXICO",
+                "AMAZON"
+            ],
+            [
+                "TEMPLE",
+                "AUSTRALIA",
+                "CASINO"
+            ],
+            [
+                "NINJA",
+                "SMUGGLER",
+                "SHADOW"
+            ],
+            [
+                "BALL",
+                "FALL",
+                "CELL"
+            ],
+            [
+                "SLUG",
+                "DINOSAUR",
+                "DRAGON"
+            ],
+            [
+                "DOG",
+                "ROBIN",
+                "VET"
+            ]
+        ]
+    },
+    {
+        "subject_id": "6119d9f5a882080ef1c9e9e6",
+        "completion_code": "4E778554",
+        "age": "22",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "check_words": [
+            [
+                "BOOM",
+                "WAR",
+                "MISSILE"
+            ],
+            [
+                "LEPRECHAUN",
+                "LUCK",
+                "PANTS"
+            ],
+            [
+                "BUFFALO",
+                "BARK",
+                "SHARK"
+            ],
+            [
+                "BILL",
+                "HOSPITAL",
+                "CONTRACT"
+            ],
+            [
+                "BEACH",
+                "JET",
+                "CHOCOLATE"
+            ],
+            [
+                "DUCK",
+                "CAT",
+                "LITTER"
+            ],
+            [
+                "NUT",
+                "SEAL",
+                "SHARK"
+            ],
+            [
+                "KETCHUP",
+                "PASTE",
+                "FAIR"
+            ],
+            [
+                "SCUBA DIVER",
+                "WORM",
+                "SHARK"
+            ],
+            [
+                "MOLE",
+                "TURKEY",
+                "MAMMOTH"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5c7afb18de6f7900150c33d2",
+        "completion_code": "4E778554",
+        "age": "68",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "THEATER",
+                "MODEL",
+                "FIGURE"
+            ],
+            [
+                "DOG",
+                "POUND",
+                "KID"
+            ],
+            [
+                "TELESCOPE",
+                "POINT",
+                "LINE"
+            ],
+            [
+                "SHAKESPEARE",
+                "CAST",
+                "PLOT"
+            ],
+            [
+                "ROBIN",
+                "WAKE",
+                "TIME"
+            ],
+            [
+                "EAGLE",
+                "DUCK",
+                "TAG"
+            ],
+            [
+                "CODE",
+                "BATTERY",
+                "WAVE"
+            ],
+            [
+                "SUPERHERO",
+                "SOCK",
+                "HOOD"
+            ],
+            [
+                "MOLE",
+                "TOOTH",
+                "CROWN"
+            ],
+            [
+                "WATER",
+                "WELL",
+                "PAN"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5d34de398f657e00150dd0d5",
+        "completion_code": "4E778554",
+        "age": "60",
+        "gender": "Male",
+        "nationality": "United States",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "PANTS",
+                "STICK",
+                "BOOT"
+            ],
+            [
+                "NEW YORK",
+                "AMAZON",
+                "AUSTRALIA"
+            ],
+            [
+                "GRASS",
+                "BUG",
+                "SPIDER"
+            ],
+            [
+                "SWITCH",
+                "BED",
+                "COVER"
+            ],
+            [
+                "CHURCH",
+                "STAR",
+                "SOUL"
+            ],
+            [
+                "POLICE",
+                "IVORY",
+                "PAPER"
+            ],
+            [
+                "CENTAUR",
+                "DRAGON",
+                "HORSE"
+            ],
+            [
+                "LOCH NESS",
+                "BRIDGE",
+                "EUROPE"
+            ],
+            [
+                "ROOT",
+                "ROSE",
+                "YARD"
+            ],
+            [
+                "ALPS",
+                "MOON",
+                "MOSCOW"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5c75d4d6b80b460014bd0373",
+        "completion_code": "4E778554",
+        "age": "64",
+        "gender": "Male",
+        "nationality": "US",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "SUIT",
+                "CARD",
+                "BANK"
+            ],
+            [
+                "POUND",
+                "CHANGE",
+                "MILLIONAIRE"
+            ],
+            [
+                "LONDON",
+                "GREECE",
+                "CAPITAL"
+            ],
+            [
+                "PISTOL",
+                "PLOT",
+                "SPY"
+            ],
+            [
+                "AMBULANCE",
+                "HOSPITAL",
+                "BED"
+            ],
+            [
+                "POUND",
+                "CRANE",
+                "JACK"
+            ],
+            [
+                "STRING",
+                "PAPER",
+                "BOARD"
+            ],
+            [
+                "DINOSAUR",
+                "TEACHER",
+                "WHALE"
+            ],
+            [
+                "ANTARCTICA",
+                "MEXICO",
+                "INDIA"
+            ],
+            [
+                "TABLE",
+                "MARBLE",
+                "PLAY"
+            ]
+        ]
+    },
+    {
+        "subject_id": "6168be4f20a629b366f7db7a",
+        "completion_code": "4E778554",
+        "age": "23",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States ",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "VET",
+                "NURSE",
+                "QUEEN"
+            ],
+            [
+                "SATELLITE",
+                "FLY",
+                "HAWK"
+            ],
+            [
+                "CLUB",
+                "STRIKE",
+                "POISON"
+            ],
+            [
+                "SERVER",
+                "DATE",
+                "TABLE"
+            ],
+            [
+                "FRANCE",
+                "SPOT",
+                "LINE"
+            ],
+            [
+                "EGYPT",
+                "AZTEC",
+                "SHIP"
+            ],
+            [
+                "TEMPLE",
+                "LIMOUSINE",
+                "OPERA"
+            ],
+            [
+                "COLD",
+                "FAN",
+                "HOOD"
+            ],
+            [
+                "TRIP",
+                "CONCERT",
+                "STADIUM"
+            ],
+            [
+                "CENTAUR",
+                "ROSE",
+                "KANGAROO"
+            ]
+        ]
+    },
+    {
+        "subject_id": "610af9910c4d079d84e855f4",
+        "completion_code": "4E778554",
+        "age": "19",
+        "gender": "Male",
+        "nationality": "Spaniard",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CLIFF",
+                "BUG",
+                "MERCURY"
+            ],
+            [
+                "KNIGHT",
+                "PUPIL",
+                "BOW"
+            ],
+            [
+                "KNIFE",
+                "WATER",
+                "KIWI"
+            ],
+            [
+                "CANADA",
+                "FOREST",
+                "COLD"
+            ],
+            [
+                "ROW",
+                "PIRATE",
+                "WHALE"
+            ],
+            [
+                "REVOLUTION",
+                "ENGLAND",
+                "BEAT"
+            ],
+            [
+                "DANCE",
+                "DRESS",
+                "PIE"
+            ],
+            [
+                "YARD",
+                "SWING",
+                "CHAIR"
+            ],
+            [
+                "SHAKESPEARE",
+                "HAM",
+                "NOVEL"
+            ],
+            [
+                "VET",
+                "ENGLAND",
+                "GERMANY"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5de301515253b03390043d12",
+        "completion_code": "4E778554",
+        "age": "57",
+        "gender": "Male",
+        "nationality": "US",
+        "country": "US",
+        "student": "No",
+        "language": "english",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "check_words": [
+            [
+                "BOMB",
+                "GERMANY",
+                "ENGLAND"
+            ],
+            [
+                "AMERICA",
+                "BEIJING",
+                "SATURN"
+            ],
+            [
+                "PIT",
+                "SPRING",
+                "ROCK"
+            ],
+            [
+                "ROULETTE",
+                "LIFE",
+                "DICE"
+            ],
+            [
+                "BRIDGE",
+                "CARD",
+                "COMIC"
+            ],
+            [
+                "SUB",
+                "HONEY",
+                "MOUTH"
+            ],
+            [
+                "BRIDGE",
+                "BOARD",
+                "CIRCLE"
+            ],
+            [
+                "STATE",
+                "CHINA",
+                "ROME"
+            ],
+            [
+                "GLOVE",
+                "ICE",
+                "SNOW"
+            ],
+            [
+                "SLUG",
+                "LIFE",
+                "ROBIN"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5f1e9b5ffe1f70029559f24c",
+        "completion_code": "4E778554",
+        "age": "42",
+        "gender": "Male",
+        "nationality": "United States",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "PhD",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CODE",
+                "POST",
+                "CAPITAL"
+            ],
+            [
+                "LIMOUSINE",
+                "MINE",
+                "PIE"
+            ],
+            [
+                "PLANE",
+                "SUPERHERO",
+                "BAT"
+            ],
+            [
+                "BALL",
+                "CARD",
+                "CLUB"
+            ],
+            [
+                "FRANCE",
+                "CAR",
+                "LAP"
+            ],
+            [
+                "POOL",
+                "SCUBA DIVER",
+                "STREAM"
+            ],
+            [
+                "SOUND",
+                "BARK",
+                "RACKET"
+            ],
+            [
+                "BANK",
+                "PLOT",
+                "CLUB"
+            ],
+            [
+                "EAGLE",
+                "HELICOPTER",
+                "ROBIN"
+            ],
+            [
+                "BELT",
+                "LION",
+                "POOL"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5b32c63da8327d0001002779",
+        "completion_code": "4E778554",
+        "age": "45",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "ENGINE",
+                "GLASS",
+                "CRASH"
+            ],
+            [
+                "PLANE",
+                "GERMANY",
+                "NEW YORK"
+            ],
+            [
+                "NIGHT",
+                "SPY",
+                "MOLE"
+            ],
+            [
+                "PHOENIX",
+                "CENTAUR",
+                "BAT"
+            ],
+            [
+                "WATER",
+                "FISH",
+                "STREAM"
+            ],
+            [
+                "THEATER",
+                "BAR",
+                "TEMPLE"
+            ],
+            [
+                "BOARD",
+                "HORSESHOE",
+                "ROULETTE"
+            ],
+            [
+                "MICROSCOPE",
+                "STICK",
+                "NEEDLE"
+            ],
+            [
+                "HEAD",
+                "CIRCLE",
+                "PIE"
+            ],
+            [
+                "FIGHTER",
+                "BOW",
+                "MOUNT"
+            ]
+        ]
+    },
+    {
+        "subject_id": "611997bd63dd5b68e9048179",
+        "completion_code": "4E778554",
+        "age": "19",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "USA",
+        "student": "Yes",
+        "language": "English",
+        "education": "High school",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "PIRATE",
+                "SHIP",
+                "FIGURE"
+            ],
+            [
+                "PYRAMID",
+                "THIEF",
+                "AZTEC"
+            ],
+            [
+                "SNOW",
+                "WITCH",
+                "DWARF"
+            ],
+            [
+                "YARD",
+                "WORM",
+                "KANGAROO"
+            ],
+            [
+                "DIAMOND",
+                "BILL",
+                "HOLLYWOOD"
+            ],
+            [
+                "LION",
+                "SLUG",
+                "AUSTRALIA"
+            ],
+            [
+                "CHAIR",
+                "CONCERT",
+                "BUGLE"
+            ],
+            [
+                "MAIL",
+                "BOX",
+                "DRAFT"
+            ],
+            [
+                "AFRICA",
+                "AUSTRALIA",
+                "ATLANTIS"
+            ],
+            [
+                "BERLIN",
+                "BOOT",
+                "AGENT"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5fc29e457497e203c3af6bb9",
+        "completion_code": "4E778554",
+        "age": "34",
+        "gender": "Male",
+        "nationality": "USA",
+        "country": "USA",
+        "student": "No",
+        "language": "English",
+        "education": "Some college or university",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "SCORPION",
+                "DOG",
+                "CELL"
+            ],
+            [
+                "PIE",
+                "JAM",
+                "APPLE"
+            ],
+            [
+                "MEXICO",
+                "HOTEL",
+                "BERLIN"
+            ],
+            [
+                "BUFFALO",
+                "BERLIN",
+                "PHOENIX"
+            ],
+            [
+                "CLOAK",
+                "WATCH",
+                "TELESCOPE"
+            ],
+            [
+                "CANADA",
+                "OLYMPUS",
+                "WASHINGTON"
+            ],
+            [
+                "NEEDLE",
+                "JET",
+                "BOLT"
+            ],
+            [
+                "FIGURE",
+                "NAIL",
+                "CHEST"
+            ],
+            [
+                "THIEF",
+                "SPY",
+                "SLIP"
+            ],
+            [
+                "WEB",
+                "NOVEL",
+                "COMIC"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60ce4fceb13609a2c039248e",
+        "completion_code": "4E778554",
+        "age": "37",
+        "gender": "Male",
+        "nationality": "American",
+        "country": "United States of America",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "TRAIN",
+                "LINE",
+                "HORN"
+            ],
+            [
+                "SUPERHERO",
+                "DWARF",
+                "WITCH"
+            ],
+            [
+                "TEMPLE",
+                "SCHOOL",
+                "SQUARE"
+            ],
+            [
+                "MASS",
+                "COMPOUND",
+                "ROCK"
+            ],
+            [
+                "TRUNK",
+                "BATTERY",
+                "OIL"
+            ],
+            [
+                "HAND",
+                "PALM",
+                "EYE"
+            ],
+            [
+                "SEAL",
+                "BRIDGE",
+                "DUCK"
+            ],
+            [
+                "SHAKESPEARE",
+                "GRACE",
+                "DRESS"
+            ],
+            [
+                "STAR",
+                "PRINCESS",
+                "HORSE"
+            ],
+            [
+                "LOCH NESS",
+                "FRANCE",
+                "PYRAMID"
+            ]
+        ]
+    },
+    {
+        "subject_id": "5fbb2540b981f7c1e0fca5ff",
+        "completion_code": "4E778554",
+        "age": "41",
+        "gender": "Male",
+        "nationality": "white",
+        "country": "usa",
+        "student": "No",
+        "language": "english",
+        "education": "Some college or university",
+        "check_num_dif": [
+            2,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "check_words": [
+            [
+                "CARD",
+                "MATCH",
+                "TABLET"
+            ],
+            [
+                "HIMALAYAS",
+                "ALPS",
+                "CROSS"
+            ],
+            [
+                "BUG",
+                "CRICKET",
+                "BOOT"
+            ],
+            [
+                "RING",
+                "WATCH",
+                "LINK"
+            ],
+            [
+                "SHOT",
+                "HOLE",
+                "BAT"
+            ],
+            [
+                "TOKYO",
+                "MOSCOW",
+                "HOLLYWOOD"
+            ],
+            [
+                "BAR",
+                "IRON",
+                "BOND"
+            ],
+            [
+                "CRASH",
+                "TRIP",
+                "POLICE"
+            ],
+            [
+                "SCHOOL",
+                "TIME",
+                "DAY"
+            ],
+            [
+                "CASINO",
+                "BEAT",
+                "STADIUM"
+            ]
+        ]
+    },
+    {
+        "subject_id": "615f0069b9f34b5b57e40454",
+        "completion_code": "4E778554",
+        "age": "45",
+        "gender": "Male",
+        "nationality": "black",
+        "country": "United States",
+        "student": "Yes",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "GAME",
+                "RULER",
+                "FAIR"
+            ],
+            [
+                "KING",
+                "RING",
+                "WHIP"
+            ],
+            [
+                "COURT",
+                "KNIGHT",
+                "QUEEN"
+            ],
+            [
+                "HOLLYWOOD",
+                "POLICE",
+                "DRAGON"
+            ],
+            [
+                "PLATE",
+                "BUCK",
+                "PAN"
+            ],
+            [
+                "WASHER",
+                "CASINO",
+                "SHOP"
+            ],
+            [
+                "SOLDIER",
+                "KID",
+                "CROWN"
+            ],
+            [
+                "HOSPITAL",
+                "ROME",
+                "EMBASSY"
+            ],
+            [
+                "CARROT",
+                "KNIFE",
+                "OCTOPUS"
+            ],
+            [
+                "DINOSAUR",
+                "HORSE",
+                "PLATYPUS"
+            ]
+        ]
+    },
+    {
+        "subject_id": "60898679445b1d69c862ce67",
+        "completion_code": "4E778554",
+        "age": "28",
+        "gender": "Female",
+        "nationality": "American",
+        "country": "United States",
+        "student": "No",
+        "language": "English",
+        "education": "College or university degree",
+        "check_num_dif": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "check_words": [
+            [
+                "CODE",
+                "ROSE",
+                "ROBIN"
+            ],
+            [
+                "PUMPKIN",
+                "APPLE",
+                "BERRY"
+            ],
+            [
+                "MAMMOTH",
+                "UNICORN",
+                "IVORY"
+            ],
+            [
+                "ROULETTE",
+                "PIANO",
+                "BELT"
+            ],
+            [
+                "FACE",
+                "JUPITER",
+                "BED"
+            ],
+            [
+                "EYE",
+                "SWING",
+                "STRIKE"
+            ],
+            [
+                "NEW YORK",
+                "TOKYO",
+                "SUIT"
+            ],
+            [
+                "CHAIR",
+                "IRON",
+                "MARBLE"
+            ],
+            [
+                "SOLDIER",
+                "POST",
+                "KNIFE"
+            ],
+            [
+                "AMAZON",
+                "NEW YORK",
+                "MODEL"
+            ]
+        ]
+    }
+]

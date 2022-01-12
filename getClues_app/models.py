@@ -25,8 +25,8 @@ class Subject(db.Model):
 
 class Trial(db.Model):
     __tablename__ = 'trials'
-    
-    subject_id = db.Column(db.String, primary_key=True)
+    row_id = db.Column(db.String, primary_key=True)
+    subject_id = db.Column(db.String)
     rt = db.Column(db.String)
     clue = db.Column(db.String)
     trial_order = db.Column(db.String)

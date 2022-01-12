@@ -31,7 +31,8 @@ def experiment():
         #trial response
         else:
             print('recording trial data')
-            ret = Trial( subject_id= str(dd['subject_id']),
+            ret = Trial( row_id = str(dd['subject_id']) + '_' + str(dd['trial_order']),
+                           subject_id= str(dd['subject_id']),
                            rt= str(dd['rt']),
                            clue=str(dd['response']['Q0']),
                            trial_order=str(dd['trial_order']),

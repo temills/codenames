@@ -1,0 +1,74 @@
+/*
+ * CSS for jsPsych experiments.
+ *
+ * This stylesheet provides minimal styling to make jsPsych
+ * experiments look polished without any additional styles.
+ */
+
+ @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
+
+/* Container holding jsPsych content */
+/* borrowing Bootstrap style for btn elements, but combining styles a bit */
+.codenames-btn {
+    /*display: inline-block;*/
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 10px;
+    padding: 6px 12px;
+    margin: 0px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    cursor: pointer;
+    line-height: 1.4;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-image: none;
+    border: 3px solid transparent;
+    border-radius: 4px;
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+  }
+
+  .codenames-container {
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: repeat(8, auto);
+    grid-gap: 10px;
+    justify-content: center;
+    perspective: 500px;
+  }
+    
+  .codenames-card {
+    position: relative;
+    cursor: pointer;
+    height: 125px;
+    width: 175px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    float: left;
+    color: #333;
+    background-color:#e6e6fa;
+    border-color:#6a5acd;
+  }
+
+  .codenames-card:hover {
+    border-width: 4px;
+  }
+  
+  .codenames-card-activeItem{
+    position: relative;
+    cursor: pointer;
+    height: 125px;
+    width: 175px;
+    border-radius: 5px;
+    border-width: 4px;
+    border-style: solid;
+    float: left;
+    color: #333;
+    background-color:#bfecb2;
+    border-color:#46a82b;
+ }
